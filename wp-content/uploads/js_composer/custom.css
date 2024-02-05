@@ -1,0 +1,31 @@
+/*azul oscuro barra debajo del slide*/
+.intro3:before {
+    background-color: #063063;
+}
+
+/*btn home*/
+.vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline {
+    color: #063875 !important;
+    border-color: #063875 !important;
+}
+.vc_btn3.vc_btn3-color-grey.vc_btn3-style-outline:hover {
+    color: #fff !important;
+    background: #063875 !important;
+}
+
+/*cuadro blanco slide paginas internas*/
+.has-bg .breadcrumb {
+    display: none !important;
+}
+
+.entry-header{
+display: none !important;
+}
+
+.breadcrumb{
+display: none;
+}
+
+.footer {
+    padding: 30px 0 0px !important;
+}
