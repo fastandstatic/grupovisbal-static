@@ -898,3 +898,12 @@ h1, h2, h3, h4, h5, h6 {
 p {
         font-family: 'Montserrat', sans-serif !important;
 }
+
+#rmp_menu_trigger-76328.is-active {
+    background: #063875 !important;
+}
+@media (max-width: 1199px){
+	i.fas.fa-bars {
+   	 color: #fff !important;
+	}
+}
