@@ -7,7 +7,7 @@
 	<link rel="pingback" href="/xmlrpc.php">
 	<link rel="shortcut icon" href="https://grupovisbal.com/wp-content/uploads/2015/11/favicon.ico">
 	<link rel="apple-touch-icon" href="https://structure.thememove.com/data/images/apple_touch_icon.png">
-	<title>Transporte y Suministro de Material &#8211; Grupo Visbal</title>
+	<title>Grupo Visbal</title>
 <meta name="robots" content="max-image-preview:large">
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
 <link href="https://fonts.gstatic.com/" crossorigin rel="preconnect">
@@ -56,7 +56,6 @@ img.emoji {
 <link rel="stylesheet" id="js_composer_front-css" href="/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=7.3" type="text/css" media="all">
 <link rel="stylesheet" id="js_composer_custom_css-css" href="/wp-content/uploads/js_composer/custom.css?ver=7.3" type="text/css" media="all">
 <link rel="stylesheet" id="bsf-Defaults-css" href="/wp-content/uploads/smile_fonts/Defaults/Defaults.css?ver=3.19.19" type="text/css" media="all">
-<link rel="stylesheet" id="ultimate-vc-addons-style-min-css" href="/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/ultimate.min.css?ver=3.19.19" type="text/css" media="all">
 <script type="text/javascript" src="/wp-includes/js/jquery/jquery.min.js?ver=3.6.4" id="jquery-core-js"></script>
 <script type="text/javascript" src="/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0" id="jquery-migrate-js"></script>
 <script type="text/javascript" src="/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.6.18" async id="tp-tools-js"></script>
@@ -68,18 +67,15 @@ img.emoji {
 <script type="text/javascript" src="/wp-content/themes/structure/js/jquery.magnific-popup.min.js?ver=6.2.4" id="magnific-js"></script>
 <script type="text/javascript" src="/wp-content/themes/structure/js/jquery.counterup.min.js?ver=6.2.4" id="counterup-js"></script>
 <script type="text/javascript" src="/wp-content/themes/structure/js/waypoints.min.js?ver=6.2.4" id="waypoints-js"></script>
-<script type="text/javascript" src="/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
-<script type="text/javascript" src="/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/ultimate.min.js?ver=3.19.19" id="ultimate-vc-addons-script-js"></script>
-<script type="text/javascript" src="/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/ultimate_bg.min.js?ver=3.19.19" id="ultimate-vc-addons-row-bg-js"></script>
 <script></script><link rel="https://api.w.org/" href="/wp-json/">
-<link rel="alternate" type="application/json" href="/wp-json/wp/v2/pages/74671">
+<link rel="alternate" type="application/json" href="/wp-json/wp/v2/pages/73807">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml">
 <meta name="generator" content="WordPress 6.2.4">
-<link rel="canonical" href="/transporte/">
-<link rel="shortlink" href="/?p=74671">
-<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Ftransporte%2F">
-<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Ftransporte%2F#038;format=xml">
+<link rel="canonical" href="/">
+<link rel="shortlink" href="/">
+<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2F">
+<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2F#038;format=xml">
 	<style>.people .social .menu li a:hover,
 	   .listing li i,
 	   .error404 h2,
@@ -570,7 +566,14 @@ footer.footer img {
   src: url(/home/grupovis/public_html/wp-content/fonts/montserrat/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aXx-p7K4GLs.woff) format('woff');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }</style>
-<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1457190355774{margin-top: 40px !important;margin-bottom: 30px !important;}.vc_custom_1463588671892{margin-top: 45px !important;background-position: 0 0 !important;background-repeat: no-repeat !important;}.vc_custom_1463602219777{margin-top: 0px !important;margin-bottom: 0px !important;}.vc_custom_1457188440617{margin-top: 30px !important;}.vc_custom_1463420589638{margin-bottom: 10px !important;}.vc_custom_1463425436203{margin-top: 10px !important;}.vc_custom_1463419854583{margin-top: 15px !important;}.vc_custom_1463419868970{margin-top: 15px !important;}.vc_custom_1463419877858{margin-top: 15px !important;}.vc_custom_1463419887431{margin-top: 15px !important;}.vc_custom_1463419897253{margin-top: 15px !important;}.vc_custom_1463419905905{margin-top: 15px !important;}</style>
+<style type="text/css" data-type="vc_custom-css">#post-73807 > div > div > div.vc_row.wpb_row.align-center.services.services-2.vc_custom_1433411127937 > div > div > div > div > div > div > div:nth-child(2) > div:nth-child(2) > div > div > div.vc_btn3-container.vc_btn3-inline {
+    margin-top: 14%;
+}
+
+#post-73807 > div > div > div.vc_row.wpb_row.align-center.services.services-2.vc_custom_1433411127937 > div > div > div > div > div > div > div:nth-child(2) > div:nth-child(3) > div > div > div.vc_btn3-container.vc_btn3-inline {
+    margin-top: 14%;
+}</style>
+<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1431762008421{padding-top: 20px !important;padding-bottom: 20px !important;background-color: #063875 !important;}.vc_custom_1433411127937{padding-top: 60px !important;padding-bottom: 60px !important;}.vc_custom_1708435890992{padding-top: 140px !important;padding-bottom: 140px !important;}.vc_custom_1431939712305{padding-top: 70px !important;padding-bottom: 70px !important;}.vc_custom_1431761192317{padding-top: 50px !important;padding-bottom: 0px !important;}.vc_custom_1708437140732{margin-top: 50px !important;}.vc_custom_1708437083014{margin-bottom: 25px !important;}.vc_custom_1708437087351{margin-bottom: 25px !important;}.vc_custom_1708437092110{margin-bottom: 25px !important;}.vc_custom_1708437096897{margin-bottom: 25px !important;}.vc_custom_1708437127000{margin-bottom: 25px !important;}.vc_custom_1708437107253{margin-bottom: 25px !important;}</style>
 <noscript><style>.wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>	<!--
     * WordPress: v6.2.4
     * ThemMove Core: v1.4.2
@@ -581,7 +584,7 @@ footer.footer img {
     -->
 </head>
 
-<body class="page-template-default page page-id-74671 custom-background wp-embed-responsive tm-infinity header-preset-01 header-sticky top-area-enable full-width scheme core_142 wpb-js-composer js-comp-ver-7.3 vc_responsive">
+<body class="home page-template-default page page-id-73807 custom-background wp-embed-responsive tm-infinity header-preset-01 disable-title disable-breadcrumb header-sticky top-area-enable full-width scheme core_142 wpb-js-composer js-comp-ver-7.3 vc_responsive">
 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 0.49803921568627"></fefuncr><fefuncg type="table" tablevalues="0 0.49803921568627"></fefuncg><fefuncb type="table" tablevalues="0 0.49803921568627"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 1"></fefuncr><fefuncg type="table" tablevalues="0 1"></fefuncg><fefuncb type="table" tablevalues="0 1"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.54901960784314 0.98823529411765"></fefuncr><fefuncg type="table" tablevalues="0 1"></fefuncg><fefuncb type="table" tablevalues="0.71764705882353 0.25490196078431"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 1"></fefuncr><fefuncg type="table" tablevalues="0 0.27843137254902"></fefuncg><fefuncb type="table" tablevalues="0.5921568627451 0.27843137254902"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 0"></fefuncr><fefuncg type="table" tablevalues="0 0.64705882352941"></fefuncg><fefuncb type="table" tablevalues="0 1"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.78039215686275 1"></fefuncr><fefuncg type="table" tablevalues="0 0.94901960784314"></fefuncg><fefuncb type="table" tablevalues="0.35294117647059 0.47058823529412"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.65098039215686 0.40392156862745"></fefuncr><fefuncg type="table" tablevalues="0 1"></fefuncg><fefuncb type="table" tablevalues="0.44705882352941 0.4"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.098039215686275 1"></fefuncr><fefuncg type="table" tablevalues="0 0.66274509803922"></fefuncg><fefuncb type="table" tablevalues="0.84705882352941 0.41960784313725"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg>			<button type="button" aria-controls="rmp-container-76328" aria-label="Menu Trigger" id="rmp_menu_trigger-76328" class="rmp_menu_trigger rmp-menu-trigger-boring">
 								<span class="rmp-trigger-box">
 									<span class="responsive-menu-pro-inner"></span>
@@ -594,7 +597,7 @@ footer.footer img {
 									</span>
 							</div>
 			<div id="rmp-menu-wrap-76328" class="rmp-menu-wrap"><ul id="rmp-menu-76328" class="rmp-menu" role="menubar" aria-label="Menú principal mobile">
-<li id="rmp-menu-item-74630" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-home rmp-menu-item rmp-menu-top-level-item" role="none"><a href="/" class="rmp-menu-item-link" role="menuitem">Inicio</a></li>
+<li id="rmp-menu-item-74630" class=" menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-73807 current_page_item rmp-menu-item rmp-menu-current-item rmp-menu-top-level-item" role="none"><a href="/" class="rmp-menu-item-link" role="menuitem">Inicio</a></li>
 <li id="rmp-menu-item-75048" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children rmp-menu-item rmp-menu-item-has-children rmp-menu-top-level-item" role="none">
 <a href="#" class="rmp-menu-item-link" role="menuitem">Empresas<div class="rmp-menu-subarrow">▼</div></a><ul aria-label="Empresas" role="menu" data-depth="2" class="rmp-submenu rmp-submenu-depth-1">
 <li id="rmp-menu-item-74889" class=" menu-item menu-item-type-post_type menu-item-object-page rmp-menu-item rmp-menu-sub-level-item" role="none"><a href="/quienes-somos-2/" class="rmp-menu-item-link" role="menuitem">Quiénes Somos</a></li>
@@ -606,14 +609,14 @@ footer.footer img {
 </li>
 </ul>
 </li>
-<li id="rmp-menu-item-75373" class=" menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children rmp-menu-item rmp-menu-item-current-ancestor rmp-menu-item-current-parent rmp-menu-item-has-children rmp-menu-top-level-item" role="none">
+<li id="rmp-menu-item-75373" class=" menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children rmp-menu-item rmp-menu-item-has-children rmp-menu-top-level-item" role="none">
 <a href="#" class="rmp-menu-item-link" role="menuitem">Líneas de Negocio<div class="rmp-menu-subarrow">▼</div></a><ul aria-label="Líneas de Negocio" role="menu" data-depth="2" class="rmp-submenu rmp-submenu-depth-1">
 <li id="rmp-menu-item-75243" class=" menu-item menu-item-type-post_type menu-item-object-page rmp-menu-item rmp-menu-sub-level-item" role="none"><a href="/proyecto-y-estructura-metalica/" class="rmp-menu-item-link" role="menuitem">Proyectos y Estructuras Metálicas</a></li>
 <li id="rmp-menu-item-75244" class=" menu-item menu-item-type-post_type menu-item-object-page rmp-menu-item rmp-menu-sub-level-item" role="none"><a href="/rejillas-metalicas/" class="rmp-menu-item-link" role="menuitem">Rejillas Metálicas</a></li>
 <li id="rmp-menu-item-75245" class=" menu-item menu-item-type-post_type menu-item-object-page rmp-menu-item rmp-menu-sub-level-item" role="none"><a href="/herrajes/" class="rmp-menu-item-link" role="menuitem">Herrajes</a></li>
 <li id="rmp-menu-item-75246" class=" menu-item menu-item-type-post_type menu-item-object-page rmp-menu-item rmp-menu-sub-level-item" role="none"><a href="/postes-metalicos/" class="rmp-menu-item-link" role="menuitem">Postes Metálicos</a></li>
 <li id="rmp-menu-item-75247" class=" menu-item menu-item-type-post_type menu-item-object-page rmp-menu-item rmp-menu-sub-level-item" role="none"><a href="/galvanizado-en-caliente/" class="rmp-menu-item-link" role="menuitem">Galvanizado en Caliente y Acabados</a></li>
-<li id="rmp-menu-item-75248" class=" menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-74671 current_page_item rmp-menu-item rmp-menu-current-item rmp-menu-sub-level-item" role="none"><a href="/transporte/" class="rmp-menu-item-link" role="menuitem">Transporte y Suministro de Material</a></li>
+<li id="rmp-menu-item-75248" class=" menu-item menu-item-type-post_type menu-item-object-page rmp-menu-item rmp-menu-sub-level-item" role="none"><a href="/transporte/" class="rmp-menu-item-link" role="menuitem">Transporte y Suministro de Material</a></li>
 </ul>
 </li>
 <li id="rmp-menu-item-74652" class=" menu-item menu-item-type-post_type menu-item-object-page rmp-menu-item rmp-menu-top-level-item" role="none"><a href="/nuestros-clientes/" class="rmp-menu-item-link" role="menuitem">Clientes</a></li>
@@ -662,7 +665,7 @@ footer.footer img {
 					<a href="#menu"><span class="menu-link"><i class="fas fa-bars"></i></span></a>
 					<nav class="navigation" role="navigation">
 						<div class="primary-menu"><ul id="primary-menu" class="menu">
-<li id="menu-item-74630" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-74630"><a href="/">Inicio</a></li>
+<li id="menu-item-74630" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-73807 current_page_item menu-item-74630"><a href="/">Inicio</a></li>
 <li id="menu-item-75048" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-75048">
 <a href="#">Empresas</a>
 <ul class="sub-menu">
@@ -681,7 +684,7 @@ footer.footer img {
 </li>
 </ul>
 </li>
-<li id="menu-item-75373" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-75373">
+<li id="menu-item-75373" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-75373">
 <a href="#">Líneas de Negocio</a>
 <ul class="sub-menu">
 	<li id="menu-item-75243" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75243"><a href="/proyecto-y-estructura-metalica/">Proyectos y Estructuras Metálicas</a></li>
@@ -689,7 +692,7 @@ footer.footer img {
 	<li id="menu-item-75245" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75245"><a href="/herrajes/">Herrajes</a></li>
 	<li id="menu-item-75246" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75246"><a href="/postes-metalicos/">Postes Metálicos</a></li>
 	<li id="menu-item-75247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75247"><a href="/galvanizado-en-caliente/">Galvanizado en Caliente y Acabados</a></li>
-	<li id="menu-item-75248" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-74671 current_page_item menu-item-75248"><a href="/transporte/">Transporte y Suministro de Material</a></li>
+	<li id="menu-item-75248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75248"><a href="/transporte/">Transporte y Suministro de Material</a></li>
 </ul>
 </li>
 <li id="menu-item-74652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74652"><a href="/nuestros-clientes/">Clientes</a></li>
@@ -712,189 +715,696 @@ footer.footer img {
 </div>
 	<div class="content-wrapper">
 		<main class="content" role="main">
-							<article id="post-74671" class="post-74671 page type-page status-publish hentry" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
-											<div class="breadcrumb">
-<div class="container">
-<ul class="tm_bread_crumb">
-	<li class="level-1 top"><a href="/">Home</a></li>
-	<li class="level-2 sub tail current">Transporte y Suministro de Material</li>
-</ul>
-</div> </div>						<header class="entry-header">
-							<div class="container">
-								<h1 class="entry-title" itemprop="headline">Transporte y Suministro de Material</h1>							</div>
-						</header>
-										<div class="entry-content" itemprop="text">
+							<article id="post-73807" class="post-73807 page type-page status-publish hentry" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+																					<div class="entry-content" itemprop="text">
 						<div class="wpb-content-wrapper">
-<div class="vc_row wpb_row   "><div class=" boxed"><div class="container"><div class="vc_row"><div class="wpb_column vc_column_container col-sm-12 vc_col-sm-12 col-lg-12 vc_col-lg-12"><div class="vc_column-inner"><div class="wpb_wrapper">
-<div class="vc_row wpb_row vc_inner"><div class="wpb_column vc_column_container col-sm-12 vc_col-sm-12 col-lg-12 vc_col-lg-12"><div class="vc_column-inner"><div class="wpb_wrapper">
-	<div class="wpb_single_image wpb_content_element vc_align_left">
-		
-		<figure class="wpb_wrapper vc_figure">
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " width="" height="" alt="sll" title="sll" loading="lazy"></div>
-		</figure>
-	</div>
-</div></div></div></div>
-<div class="vc_row wpb_row vc_inner"><div class="wpb_column vc_column_container col-sm-12 vc_col-sm-12 col-lg-12 vc_col-lg-12"><div class="vc_column-inner"><div class="wpb_wrapper">
-<div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
-	<div class="wpb_single_image wpb_content_element vc_align_center">
-		
-		<figure class="wpb_wrapper vc_figure">
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1143" height="146" src="/wp-content/uploads/2015/11/sdds-09.png" class="vc_single_image-img attachment-full" alt="" decoding="async" loading="lazy" title="sdds-09" srcset="/wp-content/uploads/2015/11/sdds-09.png 1143w, /wp-content/uploads/2015/11/sdds-09-300x38.png 300w, /wp-content/uploads/2015/11/sdds-09-1024x131.png 1024w" sizes="(max-width: 1143px) 100vw, 1143px"></div>
-		</figure>
-	</div>
-<div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
+<div class="vc_row wpb_row  full-width  "><div class="vc_row"><div class="wpb_column vc_column_container col-sm-12 vc_col-sm-12 col-lg-12 vc_col-lg-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="wpb_revslider_element wpb_content_element">			<script src="/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?rev=6.6.18"></script>
+			<script src="/wp-content/plugins/revslider/public/assets/js/rs6.min.js?rev=6.6.18"></script>
+
+			<!-- START Homepage V2 1 REVOLUTION SLIDER 6.6.18 --><p class="rs-p-wp-fix"></p>
+			<rs-module-wrap id="rev_slider_5_1_wrapper" data-source="gallery" style="visibility:hidden;background:transparent;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;">
+				<rs-module id="rev_slider_5_1" style="" data-version="6.6.18">
+					<rs-slides style="overflow: hidden; position: absolute;">
+						<rs-slide style="position: absolute;" data-key="rs-18" data-title="Slide" data-thumb="//grupovisbal.fastandstatic.com/wp-content/uploads/2016/03/slide-100x50.jpg" data-anim="adpr:false;" data-in="o:0;" data-out="a:false;">
+							<img src="/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="" title="slide" width="1920" height="604" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//grupovisbal.fastandstatic.com/wp-content/uploads/2016/03/slide.jpg" data-bg="p:left top;" data-no-retina>
+<!--
+							--><rs-layer id="slider-5-slide-18-layer-0" data-type="shape" data-rsp_ch="on" data-xy="x:c;y:m;" data-text="w:normal;s:20,16,12,7;l:0,20,15,9;" data-dim="w:1920px,1585px,1204px,742px;h:720px,594px,451px,772px;" data-frame_999="o:0;st:w;" style="z-index:6;background-color:rgba(6,56,117,0.5);"> 
+							</rs-layer><!--
+
+							--><rs-layer id="slider-5-slide-18-layer-1" class="home01-slide02-01" data-type="text" data-color="rgba(255,255,255,1)" data-rsp_ch="on" data-xy="x:c;y:m;yo:-82px,-82px,-82px,-60px;" data-text="s:24,24,24,20;l:1,1,1,1;fw:400,400,400,500;" data-frame_0="x:50px;" data-frame_1="e:bounce.out;st:250;sp:1300;" data-frame_999="y:bottom;e:nothing;st:w;" style="z-index:10;font-family:'Montserrat';">GRUPO VISBAL 
+							</rs-layer><!--
+
+							--><rs-layer id="slider-5-slide-18-layer-4" class="home01-slider01-01" data-type="text" data-color="rgba(255,255,255,1)" data-rsp_ch="on" data-xy="x:c;y:m;yo:-32px,-32px,-32px,0;" data-text="s:52,52,52,30;l:58,58,58,1;fw:400,400,400,700;" data-frame_0="y:-50px;" data-frame_1="e:bounce.out;st:1050;sp:1000;" data-frame_999="y:bottom;e:nothing;st:w;" style="z-index:7;font-family:'Montserrat';">ESTAMOS PRESENTES
+ 
+							</rs-layer><!--
+
+							--><rs-layer id="slider-5-slide-18-layer-5" class="home01-slider01-02" data-type="text" data-color="rgba(255,255,255,1)||rgba(255,255,255,1)||rgba(255,255,255,1)||rgba(255,181,0,1)" data-rsp_ch="on" data-xy="x:c;y:m;yo:28px,28px,28px,60px;" data-text="s:63,63,63,30;l:70,70,70,1;fw:400,400,400,700;" data-frame_0="y:50px;" data-frame_1="e:bounce.out;st:1050;sp:1000;" data-frame_999="y:bottom;e:nothing;st:w;" style="z-index:8;font-family:'Montserrat';">EN TODOS TUS PROYECTOS 
+							</rs-layer><!--
+
+							--><rs-layer id="slider-5-slide-18-layer-8" class="home-slider-button" data-type="text" data-color="rgba(255,255,255,1)" data-rsp_ch="on" data-xy="x:c;y:m;yo:103px,103px,103px,127px;" data-text="s:14;ls:1px;" data-padding="t:10;r:15;b:10;l:15;" data-frame_0="y:50px;" data-frame_1="e:power1.inOut;st:1650;sp:1200;" data-frame_999="y:bottom;e:nothing;st:w;" style="z-index:9;background-color:rgba(255,255,255,1);font-family:'Montserrat';"><a href="http://grupovisbal.com/empresas/">CONÓCENOS</a> 
+							</rs-layer><!--
+-->						</rs-slide>
+						<rs-slide style="position: absolute;" data-key="rs-20" data-title="Slide" data-thumb="//grupovisbal.fastandstatic.com/wp-content/uploads/2015/11/slide2-01-100x50.jpg" data-anim="adpr:false;" data-in="o:0;e:none;" data-out="a:false;" data-d3="f:fly;z:400;e:power2.out;su:true;">
+							<img src="/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="" title="slide2-01" width="1905" height="600" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//grupovisbal.fastandstatic.com/wp-content/uploads/2015/11/slide2-01.jpg" data-bg="p:right bottom;" data-no-retina>
+<!--
+							--><rs-layer id="slider-5-slide-20-layer-2" class="home01-slider02-02" data-type="text" data-color="rgba(255,255,255,1)" data-rsp_ch="on" data-xy="x:c;y:m;yo:-75px,-75px,-75px,-61px;" data-text="w:nowrap,nowrap,nowrap,normal;s:50,50,50,30;l:62,62,62,45;fw:400,400,400,700;a:center;" data-dim="w:1231px,1231px,1231px,430px;" data-frame_0="o:1;" data-frame_0_lines="d:10;x:left;o:1;" data-frame_1="st:500;sp:1000;" data-frame_1_lines="d:10;" data-frame_999="o:0;st:w;sp:600;" style="z-index:5;font-family:'Montserrat';">HERRAJES ELECTRÓNICOS <br>
+Y TELEFÓNICOS 
+							</rs-layer><!--
+
+							--><rs-layer id="slider-5-slide-20-layer-5" class="home01-slider02-02" data-type="text" data-color="rgba(255,255,255,1)" data-rsp_ch="on" data-xy="x:c;y:t,t,t,m;yo:258px,258px,258px,0;" data-text="s:44,44,44,25;l:50;fw:400,400,400,600;" data-frame_0="x:right;o:1;" data-frame_1="e:power2.inOut;st:1400;" data-frame_999="x:right;st:w;" style="z-index:6;font-family:'Montserrat';">GALVANIZADOS INDUSTRIALES 
+							</rs-layer><!--
+
+							--><rs-layer id="slider-5-slide-20-layer-6" class="home01-slider02-02" data-type="text" data-color="rgba(255,255,255,1)" data-rsp_ch="on" data-xy="x:c;yo:316px,316px,316px,372px;" data-text="s:44,44,44,25;l:50;fw:400,400,400,600;" data-frame_0="x:right;o:1;" data-frame_1="e:power2.inOut;st:1400;" data-frame_999="x:right;st:w;" style="z-index:7;font-family:'Montserrat';"> Y PISOS INDUSTRIALES 
+							</rs-layer><!--
+
+							--><rs-layer id="slider-5-slide-20-layer-10" class="home-slider-button" data-type="text" data-color="rgba(136,136,136,1)" data-rsp_ch="on" data-xy="x:c;y:m;yo:132px,132px,132px,120px;" data-text="s:14;ls:1px;" data-actions="o:click;a:simplelink;target:_self;url:http://grupovisbal.com/herrajes/;" data-padding="t:10;r:15;b:10;l:15;" data-frame_0="y:-50px;" data-frame_1="e:Quint.easeIn;st:1400;sp:1000;" data-frame_999="o:0;e:nothing;st:w;sp:600;" style="z-index:8;background-color:rgba(255,255,255,1);font-family:'Montserrat';"><a class="structure-slider-button">SERVICIOS Y PRODUCTOS</a> 
+							</rs-layer><!--
+-->						</rs-slide>
+						<rs-slide style="position: absolute;" data-key="rs-24" data-title="Slide" data-thumb="//grupovisbal.fastandstatic.com/wp-content/uploads/2016/05/casttt-23-100x50.png" data-anim="adpr:false;ms:1100;" data-in="o:0;e:none;" data-out="a:false;" data-d3="f:fly;z:400;e:power2.out;su:true;">
+							<img src="/wp-content/plugins/revslider/public/assets/assets/dummy.png" alt="" title="casttt-23" width="1921" height="603" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="//grupovisbal.fastandstatic.com/wp-content/uploads/2016/05/casttt-23.png" data-bg="p:right bottom;" data-no-retina>
+<!--
+							--><rs-layer id="slider-5-slide-24-layer-2" class="home01-slider02-02" data-type="text" data-color="rgba(255,255,255,1)" data-rsp_ch="on" data-xy="x:c;y:m;yo:-60px,-60px,-60px,-132px;" data-text="s:58,58,58,25;l:62;fw:400,400,400,700;" data-frame_0="o:1;" data-frame_0_lines="d:10;x:left;o:1;" data-frame_1="st:500;sp:520;" data-frame_1_lines="d:10;" data-frame_999="o:0;st:w;sp:600;" style="z-index:5;font-family:'Montserrat';">FABRICACIÓN DE PRODUCTOS 
+							</rs-layer><!--
+
+							--><rs-layer id="slider-5-slide-24-layer-5" class="home01-slider02-02" data-type="text" data-color="rgba(255,255,255,1)" data-rsp_ch="on" data-xy="x:c;y:t,t,t,m;yo:269px,269px,269px,-49px;" data-text="w:nowrap,nowrap,nowrap,normal;s:38,38,38,25;l:44,44,44,35;fw:400,400,400,600;a:left,left,left,center;" data-dim="w:auto,auto,auto,407px;" data-frame_0="x:right;o:1;" data-frame_1="e:power2.inOut;st:980;" data-frame_999="x:right;st:w;" style="z-index:6;font-family:'Montserrat';">METALMECÁNICOS Y MECANIZADOS PARA CONSTRUCCIÓN 
+							</rs-layer><!--
+
+							--><rs-layer id="slider-5-slide-24-layer-6" class="home01-slider02-02" data-type="text" data-color="rgba(255,255,255,1)" data-rsp_ch="on" data-xy="x:c;yo:320px,320px,320px,362px;" data-text="w:nowrap,nowrap,nowrap,normal;s:38,38,38,25;l:44,44,44,35;fw:400,400,400,600;a:left,left,left,center;" data-dim="w:auto,auto,auto,439px;" data-frame_0="x:right;o:1;" data-frame_1="e:power2.inOut;st:1290;" data-frame_999="x:right;st:w;" style="z-index:7;font-family:'Montserrat';"> DE OBRAS Y PROYECTOS INTEGRADOS DE INGENIERÍA 
+							</rs-layer><!--
+
+							--><rs-layer id="slider-5-slide-24-layer-10" class="home-slider-button" data-type="text" data-color="rgba(136,136,136,1)" data-rsp_ch="on" data-xy="x:c;xo:-3px,-3px,-3px,0;y:m;yo:132px,132px,132px,120px;" data-text="s:14;ls:1px;" data-actions="o:click;a:scrollbelow;sp:300;e:none;" data-padding="t:10;r:15;b:10;l:15;" data-frame_0="y:-50px;" data-frame_1="e:Quint.easeIn;st:1660;sp:330;" data-frame_999="o:0;e:nothing;st:w;sp:600;" style="z-index:8;background-color:rgba(255,255,255,1);font-family:'Montserrat';"><a class="structure-slider-button">SERVICIOS Y PRODUCTOS</a> 
+							</rs-layer><!--
+-->						</rs-slide>
+					</rs-slides>
+				</rs-module>
+				<script>setREVStartSize({c: 'rev_slider_5_1',rl:[1240,1024,778,480],el:[600,768,960,720],gw:[1240,1024,778,480],gh:[600,768,960,720],type:'standard',justify:'',layout:'fullwidth',mh:"0"});if (window.RS_MODULES!==undefined && window.RS_MODULES.modules!==undefined && window.RS_MODULES.modules["revslider51"]!==undefined) {window.RS_MODULES.modules["revslider51"].once = false;window.revapi5 = undefined;if (window.RS_MODULES.checkMinimal!==undefined) window.RS_MODULES.checkMinimal()}</script>
+			</rs-module-wrap>
+			<!-- END REVOLUTION SLIDER -->
+</div></div></div></div></div></div>
+<div class="vc_row wpb_row  intro3 align-center vc_custom_1431762008421  "><div class=" boxed"><div class="container"><div class="vc_row">
+<div class="wpb_column vc_column_container col-sm-8 vc_col-sm-8 col-lg-8 vc_col-lg-8"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_custom_heading"><h3 style="font-size: 22px;color: #ffffff;text-align: center">Estamos presente en todos tu proyectos!</h3></div></div></div></div>
+<div class="wpb_column vc_column_container col-sm-4 vc_col-sm-4 col-lg-4 vc_col-lg-4"><div class="vc_column-inner"><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element ">
 		<div class="wpb_wrapper">
-			<h2 style="font-size: 40px; text-align: Center; color: #063875;">TRANSPORTE Y SUMINISTRO DE MATERIALES</h2>
-
-		</div>
-	</div>
-</div></div></div></div>
-</div></div></div></div></div></div></div>
-<div class="vc_row wpb_row  vc_custom_1457190355774  "><div class=" boxed"><div class="container"><div class="vc_row"><div class="wpb_column vc_column_container col-sm-12 vc_col-sm-12 col-lg-12 vc_col-lg-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div></div></div></div></div>
-<div data-stellar-background-ratio="" data-stellar-horizontal-offset="0" class="vc_row wpb_row  vc_custom_1463588671892 full-width parallax"><div class="vc_row"><div class="container"><div class="vc_row"><div class="wpb_column vc_column_container col-sm-12 vc_col-sm-12 col-lg-12 vc_col-lg-12"><div class="vc_column-inner"><div class="wpb_wrapper">
-<div class="vc_empty_space" style="height: 80px"><span class="vc_empty_space_inner"></span></div>
-<div class="vc_row wpb_row vc_inner vc_custom_1457188440617">
-<div class="wpb_column vc_column_container col-sm-3 vc_col-sm-3 col-lg-3 vc_col-lg-3"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
-<div class="wpb_column vc_column_container col-sm-3 vc_col-sm-3 col-lg-3 vc_col-lg-3"><div class="vc_column-inner"><div class="wpb_wrapper">
-	<div class="wpb_single_image wpb_content_element vc_align_center  vc_custom_1463420589638">
-		
-		<figure class="wpb_wrapper vc_figure">
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="/wp-content/uploads/2015/11/tierrra-06-115x115.png" width="115" height="115" alt="tierrra-06" title="tierrra-06" loading="lazy"></div>
-		</figure>
-	</div>
-
-	<div class="wpb_text_column wpb_content_element ">
-		<div class="wpb_wrapper">
-			<p style="text-align: center; color: #ffffff; line-height: normal;">Venta de materiales<br>
-para la construcción civil</p>
+			<p><a href="/contactenos/"><div class="vc_btn3-container vc_btn3-inline"><button style="background-color:rgb(0,0,0);background-color:rgba(0,0,0,0.01); color:#ffffff;" class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-square vc_btn3-style-custom vc_btn3-icon-right">CONTÁCTANOS <i class="vc_btn3-icon fa fa-chevron-right"></i></button></div></a></p>
 
 		</div>
 	</div>
 </div></div></div>
-<div class="wpb_column vc_column_container col-sm-3 vc_col-sm-3 col-lg-3 vc_col-lg-3"><div class="vc_column-inner"><div class="wpb_wrapper">
-	<div class="wpb_single_image wpb_content_element vc_align_center">
-		
-		<figure class="wpb_wrapper vc_figure">
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="/wp-content/uploads/2015/11/carr-06-115x115.png" width="115" height="115" alt="carr-06" title="carr-06" loading="lazy"></div>
-		</figure>
-	</div>
-
-	<div class="wpb_text_column wpb_content_element  vc_custom_1463425436203">
-		<div class="wpb_wrapper">
-			<p style="text-align: center; color: #ffffff; line-height: normal;">Alquiler de Volquetas<br>
-sencillas y doble troque</p>
-
-		</div>
-	</div>
-</div></div></div>
-<div class="wpb_column vc_column_container col-sm-3 vc_col-sm-3 col-lg-3 vc_col-lg-3"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div>
-</div>
-<div class="vc_row wpb_row vc_inner"><div class="wpb_column vc_column_container col-sm-12 vc_col-sm-12 col-lg-12 vc_col-lg-12"><div class="vc_column-inner"><div class="wpb_wrapper"></div></div></div></div>
-<div class="vc_empty_space" style="height: 12px"><span class="vc_empty_space_inner"></span></div>
-	<div class="wpb_text_column wpb_content_element ">
-		<div class="wpb_wrapper">
-			<h2 style="font-size: 29px; text-align: Center; color: #ffffff;">OFRECEMOS SERVICIO DE ALQUILER DE</h2>
-
-		</div>
-	</div>
-<div class="vc_empty_space" style="height: 12px"><span class="vc_empty_space_inner"></span></div>
+</div></div></div></div>
+<div class="vc_row wpb_row  align-center services services-2 vc_custom_1433411127937  " style="background-image:url(#);"><div class=" boxed"><div class="container"><div class="vc_row"><div class="wpb_column vc_column_container col-sm-12 vc_col-sm-12 col-lg-12 vc_col-lg-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="vc_custom_heading heading-title-2"><h2 style="color: #111111;text-align: center">Líneas de Negocio</h2></div>
 <div class="vc_row wpb_row vc_inner">
-<div class="wpb_column vc_column_container col-sm-2 vc_col-sm-2 col-lg-2 vc_col-lg-2"><div class="vc_column-inner"><div class="wpb_wrapper">
-	<div class="wpb_single_image wpb_content_element vc_align_center">
+<div class="wpb_column vc_column_container col-sm-4 vc_col-sm-4 col-lg-4 vc_col-lg-4"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_center  vc_custom_1708437083014">
 		
 		<figure class="wpb_wrapper vc_figure">
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="198" height="121" src="/wp-content/uploads/2015/11/carr-06.png" class="vc_single_image-img attachment-full" alt="" decoding="async" loading="lazy" title="carr-06"></div>
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="/wp-content/uploads/2016/04/Untitled-2-06-100x100.png" width="100" height="100" alt="Untitled-2-06" title="Untitled-2-06" loading="lazy"></div>
 		</figure>
 	</div>
 
-	<div class="wpb_text_column wpb_content_element  vc_custom_1463419854583">
+	<div class="wpb_text_column wpb_content_element ">
 		<div class="wpb_wrapper">
-			<p style="text-align: center; color: #ffffff;">Volquetas</p>
+			<h3>Proyecto y Estructura Metálica</h3>
+<p>Fabricación de estructuras metalmecánicas (tanques, bandas transportadoras, silos, tolvas, plataformas, etc.) y proyectos de Ingeniería y obras civiles.</p>
 
 		</div>
 	</div>
+<div class="vc_btn3-container vc_btn3-inline"><a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-square vc_btn3-style-outline vc_btn3-color-grey" href="/proyecto-y-estructura-metalica/" title="">LEER MÁS</a></div>
 </div></div></div>
-<div class="wpb_column vc_column_container col-sm-2 vc_col-sm-2 col-lg-2 vc_col-lg-2"><div class="vc_column-inner"><div class="wpb_wrapper">
-	<div class="wpb_single_image wpb_content_element vc_align_center">
+<div class="wpb_column vc_column_container col-sm-4 vc_col-sm-4 col-lg-4 vc_col-lg-4"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_center  vc_custom_1708437087351">
 		
 		<figure class="wpb_wrapper vc_figure">
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="199" height="121" src="/wp-content/uploads/2015/11/carr-05.png" class="vc_single_image-img attachment-full" alt="" decoding="async" loading="lazy" title="carr-05"></div>
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="/wp-content/uploads/2016/04/Untitled-2-10-100x100.png" width="100" height="100" alt="Untitled-2-10" title="Untitled-2-10" loading="lazy"></div>
 		</figure>
 	</div>
 
-	<div class="wpb_text_column wpb_content_element  vc_custom_1463419868970">
+	<div class="wpb_text_column wpb_content_element ">
 		<div class="wpb_wrapper">
-			<p style="text-align: center; color: #ffffff;">Vibro Compactadores</p>
+			<h3>Rejillas Metálicas</h3>
+<p>Pisos industriales para plataformas, pasarelas y escaleras de uso industrial.</p>
 
 		</div>
 	</div>
+<div class="vc_btn3-container vc_btn3-inline"><a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-square vc_btn3-style-outline vc_btn3-color-grey" href="/rejillas-metalicas/" title="">LEER MÁS</a></div>
 </div></div></div>
-<div class="wpb_column vc_column_container col-sm-2 vc_col-sm-2 col-lg-2 vc_col-lg-2"><div class="vc_column-inner"><div class="wpb_wrapper">
-	<div class="wpb_single_image wpb_content_element vc_align_center">
+<div class="wpb_column vc_column_container col-sm-4 vc_col-sm-4 col-lg-4 vc_col-lg-4"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_center  vc_custom_1708437092110">
 		
 		<figure class="wpb_wrapper vc_figure">
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="198" height="121" src="/wp-content/uploads/2015/11/carr-01.png" class="vc_single_image-img attachment-full" alt="" decoding="async" loading="lazy" title="carr-01"></div>
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="/wp-content/uploads/2016/04/Untitled-2-07-100x100.png" width="100" height="100" alt="Untitled-2-07" title="Untitled-2-07" loading="lazy"></div>
 		</figure>
 	</div>
 
-	<div class="wpb_text_column wpb_content_element  vc_custom_1463419877858">
+	<div class="wpb_text_column wpb_content_element ">
 		<div class="wpb_wrapper">
-			<p style="text-align: center; color: #ffffff;">Retro Excavadoras</p>
+			<h3>Herrajes</h3>
+<p>Herrajes Eléctricos para alta, media y baja tensión, galvanizados por inmersión en caliente.</p>
 
 		</div>
 	</div>
+<div class="vc_btn3-container vc_btn3-inline"><a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-square vc_btn3-style-outline vc_btn3-color-grey" href="/herrajes/" title="">LEER MÁS</a></div>
 </div></div></div>
-<div class="wpb_column vc_column_container col-sm-2 vc_col-sm-2 col-lg-2 vc_col-lg-2"><div class="vc_column-inner"><div class="wpb_wrapper">
-	<div class="wpb_single_image wpb_content_element vc_align_center">
+</div>
+<div class="vc_row wpb_row vc_inner vc_custom_1708437140732">
+<div class="wpb_column vc_column_container col-sm-4 vc_col-sm-4 col-lg-4 vc_col-lg-4"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_center  vc_custom_1708437096897">
 		
 		<figure class="wpb_wrapper vc_figure">
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="198" height="121" src="/wp-content/uploads/2015/11/carr-02.png" class="vc_single_image-img attachment-full" alt="" decoding="async" loading="lazy" title="carr-02"></div>
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="/wp-content/uploads/2016/04/Untitled-2-09-100x100.png" width="100" height="100" alt="Untitled-2-09" title="Untitled-2-09" loading="lazy"></div>
 		</figure>
 	</div>
 
-	<div class="wpb_text_column wpb_content_element  vc_custom_1463419887431">
+	<div class="wpb_text_column wpb_content_element ">
 		<div class="wpb_wrapper">
-			<p style="text-align: center; color: #ffffff;">Motoniveladoras</p>
+			<h3>Postes Metálicos</h3>
+<p>Fabricación y diseño de postes metálicas para alumbrado público y arquitectónico.</p>
 
 		</div>
 	</div>
+<div class="vc_btn3-container vc_btn3-inline"><a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-square vc_btn3-style-outline vc_btn3-color-grey" href="/postes-metalicos/" title="">LEER MÁS</a></div>
 </div></div></div>
-<div class="wpb_column vc_column_container col-sm-2 vc_col-sm-2 col-lg-2 vc_col-lg-2"><div class="vc_column-inner"><div class="wpb_wrapper">
-	<div class="wpb_single_image wpb_content_element vc_align_center">
+<div class="wpb_column vc_column_container col-sm-4 vc_col-sm-4 col-lg-4 vc_col-lg-4"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_center  vc_custom_1708437127000">
 		
 		<figure class="wpb_wrapper vc_figure">
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="199" height="121" src="/wp-content/uploads/2015/11/carr-03.png" class="vc_single_image-img attachment-full" alt="" decoding="async" loading="lazy" title="carr-03"></div>
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="/wp-content/uploads/2016/04/Untitled-2-05-100x100.png" width="100" height="100" alt="Untitled-2-05" title="Untitled-2-05" loading="lazy"></div>
 		</figure>
 	</div>
 
-	<div class="wpb_text_column wpb_content_element  vc_custom_1463419897253">
+	<div class="wpb_text_column wpb_content_element ">
 		<div class="wpb_wrapper">
-			<p style="text-align: center; color: #ffffff;">Pajaritas</p>
+			<h3>Galvanizado en Caliente</h3>
+<p>Servicio de galvazado por inmersión en caliente bajo normas ASTM y NTC.</p>
 
 		</div>
 	</div>
+<div class="vc_btn3-container vc_btn3-inline"><a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-square vc_btn3-style-outline vc_btn3-color-grey" href="/galvanizado-en-caliente/" title="">LEER MÁS</a></div>
 </div></div></div>
-<div class="wpb_column vc_column_container col-sm-2 vc_col-sm-2 col-lg-2 vc_col-lg-2"><div class="vc_column-inner"><div class="wpb_wrapper">
-	<div class="wpb_single_image wpb_content_element vc_align_center">
+<div class="wpb_column vc_column_container col-sm-4 vc_col-sm-4 col-lg-4 vc_col-lg-4"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_center  vc_custom_1708437107253">
 		
 		<figure class="wpb_wrapper vc_figure">
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="199" height="121" src="/wp-content/uploads/2015/11/carr-04.png" class="vc_single_image-img attachment-full" alt="" decoding="async" loading="lazy" title="carr-04"></div>
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img class="vc_single_image-img " src="/wp-content/uploads/2016/04/Untitled-2-08-100x100.png" width="100" height="100" alt="Untitled-2-08" title="Untitled-2-08" loading="lazy"></div>
 		</figure>
 	</div>
 
-	<div class="wpb_text_column wpb_content_element  vc_custom_1463419905905">
+	<div class="wpb_text_column wpb_content_element ">
 		<div class="wpb_wrapper">
-			<p style="text-align: center; color: #ffffff;">Cama Baja</p>
+			<h3>Transporte</h3>
+<p>Servicio de alquiler de volquetas para excavación, retiro y relleno de materiales pétreos.</p>
+
+		</div>
+	</div>
+<div class="vc_btn3-container vc_btn3-inline"><a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-square vc_btn3-style-outline vc_btn3-color-grey" href="/transporte/" title="">LEER MÁS</a></div>
+</div></div></div>
+</div>
+</div></div></div></div></div></div></div>
+<div class="vc_row wpb_row  videos align-center vc_custom_1708435890992  " style="background-image:url(/wp-content/uploads/2015/12/fondo-de-video.jpg);"><div class=" boxed"><div class="container"><div class="vc_row"><div class="wpb_column vc_column_container col-sm-12 vc_col-sm-12 col-lg-12 vc_col-lg-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="vc_custom_heading"><h2 style="font-size: 36px;color: #ffffff;text-align: center">Grupo empresarial líder en el mercado regional en Proyectos de Ingeniería.</h2></div>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p><a class="popup-youtube" href="https://www.youtube.com/watch?v=RKToCnbTbnE"><img decoding="async" src="/wp-content/uploads/2015/12/icon-video-03.png" alt=""></a></p>
+
+		</div>
+	</div>
+</div></div></div></div></div></div></div>
+<div class="vc_row wpb_row  align-center vc_custom_1431939712305  " style="background-color: #ffffff;"><div class=" boxed"><div class="container"><div class="vc_row"><div class="wpb_column vc_column_container col-sm-12 vc_col-sm-12 col-lg-12 vc_col-lg-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="vc_custom_heading heading-title-2"><h2 style="text-align: center">Nuestra Compañía</h2></div>
+<div class="vc_row wpb_row vc_inner align-left introducing vc_row-o-content-middle vc_row-flex">
+<div class="wpb_column vc_column_container col-sm-4 vc_col-sm-4 col-lg-4 vc_col-lg-4"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="vc_custom_heading"><h2 style="font-size: 18px;color: #111111;line-height: 2;text-align: left">Somos un grupo empresarial líder en el mercado regional</h2></div>
+<div class="vc_empty_space" style="height: 12px"><span class="vc_empty_space_inner"></span></div>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>En el desarrollo de soluciones integradas como Proyectos de Ingeniería, Fabricaciones Metalmecánicas, Mecanizados de Alta Precisión, Obras Civiles y Herrajes para Redes Eléctricas y Telefónicas.</p>
+
+		</div>
+	</div>
+<div class="vc_empty_space" style="height: 20px"><span class="vc_empty_space_inner"></span></div>
+<div class="vc_btn3-container vc_btn3-inline"><a class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-square vc_btn3-style-outline vc_btn3-color-grey" href="http://grupovisbal.com/quienes-somos-2/" title="">LEER MÁS</a></div>
+</div></div></div>
+<div class="wpb_column vc_column_container col-sm-4 vc_col-sm-4 col-lg-4 vc_col-lg-4"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="240" height="90" src="/wp-content/uploads/2015/11/logo-01.png" class="vc_single_image-img attachment-full" alt="" decoding="async" loading="lazy" title="logo-01"></div>
+		</figure>
+	</div>
+</div></div></div>
+<div class="wpb_column vc_column_container col-sm-4 vc_col-sm-4 col-lg-4 vc_col-lg-4"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="vc_custom_heading"><h2 style="font-size: 18px;color: #111111;line-height: 2;text-align: left">¿Por qué elegirnos?</h2></div>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p>Somos una empresa que se caracteriza por su:</p>
+<ul>
+<li>Calidad</li>
+<li>Compromiso</li>
+<li>Cumplimiento</li>
+<li>Respaldo</li>
+<li>Tecnología</li>
+</ul>
 
 		</div>
 	</div>
 </div></div></div>
 </div>
-<div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
-<div class="vc_empty_space" style="height: 80px"><span class="vc_empty_space_inner"></span></div>
 </div></div></div></div></div></div></div>
-<!-- Row Backgrounds --><div class="upb_bg_img" data-ultimate-bg="url(https://grupovisbal.fastandstatic.com/wp-content/uploads/2015/11/slideffff1.jpg)" data-image-id="75848|http://grupovisbal.com/wp-content/uploads/2015/11/slideffff1.jpg" data-ultimate-bg-style="vcpb-vz-jquery" data-bg-img-repeat="repeat" data-bg-img-size="cover" data-bg-img-position="" data-parallx_sense="30" data-bg-override="0" data-bg_img_attach="scroll" data-upb-overlay-color="" data-upb-bg-animation="" data-fadeout="" data-bg-animation="left-animation" data-bg-animation-type="h" data-animation-repeat="repeat" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false" data-custom-vc-row="" data-vc="7.3" data-is_old_vc="" data-theme-support="" data-overlay="false" data-overlay-color="" data-overlay-pattern="" data-overlay-pattern-opacity="" data-overlay-pattern-size=""></div>
-<div class="vc_row wpb_row  vc_custom_1463602219777  "><div class=" boxed"><div class="container"><div class="vc_row"><div class="wpb_column vc_column_container col-sm-12 vc_col-sm-12 col-lg-12 vc_col-lg-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="vc_row wpb_row  align-center vc_custom_1431761192317 full-width  "><div class="vc_row"><div class="wpb_column vc_column_container col-sm-12 vc_col-sm-12 col-lg-12 vc_col-lg-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="vc_custom_heading heading-title-2"><h2 style="color: #111111;text-align: left">Últimos Proyectos</h2></div>
 <style type="text/css">"rnrna.eg-henryharrison-element-1,rna.eg-henryharrison-element-2{rn -webkit-transition:all .4s linear; rn  -moz-transition:all .4s linear; rn  -o-transition:all .4s linear; rn  -ms-transition:all .4s linear; rn  transition:all .4s linear; rn}rnrnrn.eg-jimmy-carter-element-11 i:before{margin-left:0px; margin-right:0px}rnrnrnrn.eg-harding-element-17{letter-spacing:1px}rn.eg-harding-wrapper .esg-entry-media{overflow:hidden; rn   box-sizing:border-box;rn   -webkit-box-sizing:border-box;rn   -moz-box-sizing:border-box;rn   padding:30px 30px 0px 30px;rn}rnrn.eg-harding-wrapper .esg-entry-media img{overflow:hidden; rn   border-radius:50%;rn   -webkit-border-radius:50%;rn   -moz-border-radius:50%;rn}rnrnrn.eg-ulysses-s-grant-wrapper .esg-entry-media{overflow:hidden; rn   box-sizing:border-box;rn   -webkit-box-sizing:border-box;rn   -moz-box-sizing:border-box;rn   padding:30px 30px 0px 30px;rn}rnrn.eg-ulysses-s-grant-wrapper .esg-entry-media img{overflow:hidden; rn   border-radius:50%;rn   -webkit-border-radius:50%;rn   -moz-border-radius:50%;rn}rnrnrn.eg-richard-nixon-wrapper .esg-entry-media{overflow:hidden; rn   box-sizing:border-box;rn   -webkit-box-sizing:border-box;rn   -moz-box-sizing:border-box;rn   padding:30px 30px 0px 30px;rn}rnrn.eg-richard-nixon-wrapper .esg-entry-media img{overflow:hidden; rn   border-radius:50%;rn   -webkit-border-radius:50%;rn   -moz-border-radius:50%;rn}rnrnrnrn.eg-herbert-hoover-wrapper .esg-entry-media img{rn  filter:url("data:image/svg+xml;utf8,u003Csvg xmlns='http://www.w3.org/2000/svg'u003Eu003Cfilter id='grayscale'u003Eu003CfeColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/u003Eu003C/filteru003Eu003C/svgu003E#grayscale"); rn  filter:gray; rn  -webkit-filter:grayscale(100%); rn}rnrn.eg-herbert-hoover-wrapper:hover .esg-entry-media img{rn  filter:url("data:image/svg+xml;utf8,u003Csvg xmlns='http://www.w3.org/2000/svg'u003Eu003Cfilter id='grayscale'u003Eu003CfeColorMatrix type='matrix' values='1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1 0'/u003Eu003C/filteru003Eu003C/svgu003E#grayscale");rn  -webkit-filter:grayscale(0%)}rnrnrnrn.eg-lyndon-johnson-wrapper .esg-entry-media img{rn  filter:url("data:image/svg+xml;utf8,u003Csvg xmlns='http://www.w3.org/2000/svg'u003Eu003Cfilter id='grayscale'u003Eu003CfeColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/u003Eu003C/filteru003Eu003C/svgu003E#grayscale"); rn  filter:gray; rn  -webkit-filter:grayscale(100%); rn}rnrn.eg-lyndon-johnson-wrapper:hover .esg-entry-media img{rn  filter:url("data:image/svg+xml;utf8,u003Csvg xmlns='http://www.w3.org/2000/svg'u003Eu003Cfilter id='grayscale'u003Eu003CfeColorMatrix type='matrix' values='1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1 0'/u003Eu003C/filteru003Eu003C/svgu003E#grayscale");rn  -webkit-filter:grayscale(0%)}rnrnrnrn.esg-overlay.eg-ronald-reagan-container{background:-moz-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnbackground:-webkit-gradient(linear,left top,left bottom,color-stop(50%,rgba(0,0,0,0)),color-stop(99%,rgba(0,0,0,0.83)),color-stop(100%,rgba(0,0,0,0.85))); rnbackground:-webkit-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnbackground:-o-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnbackground:-ms-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnbackground:linear-gradient(to bottom,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnfilter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000',endColorstr='#d9000000',GradientType=0 )}rnrnrn.eg-georgebush-wrapper .esg-entry-cover{background:-moz-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnbackground:-webkit-gradient(linear,left top,left bottom,color-stop(50%,rgba(0,0,0,0)),color-stop(99%,rgba(0,0,0,0.83)),color-stop(100%,rgba(0,0,0,0.85))); rnbackground:-webkit-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnbackground:-o-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnbackground:-ms-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnbackground:linear-gradient(to bottom,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnfilter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000',endColorstr='#d9000000',GradientType=0 )}rnrnrnrnrn.eg-jefferson-wrapper{-webkit-border-radius:5px !important; -moz-border-radius:5px !important; border-radius:5px !important; -webkit-mask-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYGBgAAgwAAAEAAGbA+oJAAAAAElFTkSuQmCC) !important}rnrnrn.eg-monroe-element-1{text-shadow:0px 1px 3px rgba(0,0,0,0.1)}rnrnrn.eg-lyndon-johnson-wrapper .esg-entry-cover{background:-moz-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnbackground:-webkit-gradient(radial,center center,0px,center center,100%,color-stop(0%,rgba(0,0,0,0.35)),color-stop(96%,rgba(18,18,18,0)),color-stop(100%,rgba(19,19,19,0))); rnbackground:-webkit-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnbackground:-o-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnbackground:-ms-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnbackground:radial-gradient(ellipse at center,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnfilter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#59000000',endColorstr='#00131313',GradientType=1 ); rn}rnrnrn.eg-wilbert-wrapper .esg-entry-cover{background:-moz-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnbackground:-webkit-gradient(radial,center center,0px,center center,100%,color-stop(0%,rgba(0,0,0,0.35)),color-stop(96%,rgba(18,18,18,0)),color-stop(100%,rgba(19,19,19,0))); rnbackground:-webkit-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnbackground:-o-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnbackground:-ms-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnbackground:radial-gradient(ellipse at center,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnfilter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#59000000',endColorstr='#00131313',GradientType=1 ); rn}rn.eg-wilbert-wrapper .esg-entry-media img{rn -webkit-transition:0.4s ease-in-out;rn  -moz-transition:0.4s ease-in-out;rn  -o-transition:0.4s ease-in-out;rn  transition:0.4s ease-in-out;rn  filter:url("data:image/svg+xml;utf8,u003Csvg xmlns='http://www.w3.org/2000/svg'u003Eu003Cfilter id='grayscale'u003Eu003CfeColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/u003Eu003C/filteru003Eu003C/svgu003E#grayscale"); rn  filter:gray; rn  -webkit-filter:grayscale(100%); rn}rnrn.eg-wilbert-wrapper:hover .esg-entry-media img{rn  filter:url("data:image/svg+xml;utf8,u003Csvg xmlns='http://www.w3.org/2000/svg'u003Eu003Cfilter id='grayscale'u003Eu003CfeColorMatrix type='matrix' values='1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1 0'/u003Eu003C/filteru003Eu003C/svgu003E#grayscale");rn  -webkit-filter:grayscale(0%)}rnrnrn.eg-phillie-element-3:after{rncontent:" ";rnwidth:0px;rnheight:0px;rnborder-style:solid;rnborder-width:5px 5px 0 5px;rnborder-color:#000 transparent transparent transparent;rnleft:50%;rnmargin-left:-5px; bottom:-5px; position:absolute}rnrnrn.eg-howardtaft-wrapper .esg-entry-media img,.eg-howardtaft-wrapper .esg-media-poster{rn  filter:url("data:image/svg+xml;utf8,u003Csvg xmlns='http://www.w3.org/2000/svg'u003Eu003Cfilter id='grayscale'u003Eu003CfeColorMatrix type='matrix' values='1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1 0'/u003Eu003C/filteru003Eu003C/svgu003E#grayscale");rn  -webkit-filter:grayscale(0%);rn}rnrn.eg-howardtaft-wrapper:hover .esg-entry-media img,.eg-howardtaft-wrapper:hover .esg-media-poster{rn  filter:url("data:image/svg+xml;utf8,u003Csvg xmlns='http://www.w3.org/2000/svg'u003Eu003Cfilter id='grayscale'u003Eu003CfeColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/u003Eu003C/filteru003Eu003C/svgu003E#grayscale"); rn  filter:gray; rn  -webkit-filter:grayscale(100%); rn}rnrnrn.myportfolio-container .added_to_cart.wc-forward{font-family:"Open Sans"; font-size:13px; color:#fff; margin-top:10px}rnrnrn.esgbox-title.esgbox-title-outside-wrap{font-size:15px; font-weight:700; text-align:center}rn.esgbox-title.esgbox-title-inside-wrap{padding-bottom:10px; font-size:15px; font-weight:700; text-align:center}n"rnrna.eg-henryharrison-element-1,rna.eg-henryharrison-element-2{rn -webkit-transition:all .4s linear; rn  -moz-transition:all .4s linear; rn  -o-transition:all .4s linear; rn  -ms-transition:all .4s linear; rn  transition:all .4s linear; rn}rnrnrn.eg-jimmy-carter-element-11 i:before{margin-left:0px; margin-right:0px}rnrnrnrn.eg-harding-element-17{letter-spacing:1px}rn.eg-harding-wrapper .esg-entry-media{overflow:hidden; rn   box-sizing:border-box;rn   -webkit-box-sizing:border-box;rn   -moz-box-sizing:border-box;rn   padding:30px 30px 0px 30px;rn}rnrn.eg-harding-wrapper .esg-entry-media img{overflow:hidden; rn   border-radius:50%;rn   -webkit-border-radius:50%;rn   -moz-border-radius:50%;rn}rnrnrn.eg-ulysses-s-grant-wrapper .esg-entry-media{overflow:hidden; rn   box-sizing:border-box;rn   -webkit-box-sizing:border-box;rn   -moz-box-sizing:border-box;rn   padding:30px 30px 0px 30px;rn}rnrn.eg-ulysses-s-grant-wrapper .esg-entry-media img{overflow:hidden; rn   border-radius:50%;rn   -webkit-border-radius:50%;rn   -moz-border-radius:50%;rn}rnrnrn.eg-richard-nixon-wrapper .esg-entry-media{overflow:hidden; rn   box-sizing:border-box;rn   -webkit-box-sizing:border-box;rn   -moz-box-sizing:border-box;rn   padding:30px 30px 0px 30px;rn}rnrn.eg-richard-nixon-wrapper .esg-entry-media img{overflow:hidden; rn   border-radius:50%;rn   -webkit-border-radius:50%;rn   -moz-border-radius:50%;rn}rnrnrnrn.eg-herbert-hoover-wrapper .esg-entry-media img{rn  filter:url("data:image/svg+xml;utf8,u003Csvg xmlns='http://www.w3.org/2000/svg'u003Eu003Cfilter id='grayscale'u003Eu003CfeColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/u003Eu003C/filteru003Eu003C/svgu003E#grayscale"); rn  filter:gray; rn  -webkit-filter:grayscale(100%); rn}rnrn.eg-herbert-hoover-wrapper:hover .esg-entry-media img{rn  filter:url("data:image/svg+xml;utf8,u003Csvg xmlns='http://www.w3.org/2000/svg'u003Eu003Cfilter id='grayscale'u003Eu003CfeColorMatrix type='matrix' values='1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1 0'/u003Eu003C/filteru003Eu003C/svgu003E#grayscale");rn  -webkit-filter:grayscale(0%)}rnrnrnrn.eg-lyndon-johnson-wrapper .esg-entry-media img{rn  filter:url("data:image/svg+xml;utf8,u003Csvg xmlns='http://www.w3.org/2000/svg'u003Eu003Cfilter id='grayscale'u003Eu003CfeColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/u003Eu003C/filteru003Eu003C/svgu003E#grayscale"); rn  filter:gray; rn  -webkit-filter:grayscale(100%); rn}rnrn.eg-lyndon-johnson-wrapper:hover .esg-entry-media img{rn  filter:url("data:image/svg+xml;utf8,u003Csvg xmlns='http://www.w3.org/2000/svg'u003Eu003Cfilter id='grayscale'u003Eu003CfeColorMatrix type='matrix' values='1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1 0'/u003Eu003C/filteru003Eu003C/svgu003E#grayscale");rn  -webkit-filter:grayscale(0%)}rnrnrnrn.esg-overlay.eg-ronald-reagan-container{background:-moz-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnbackground:-webkit-gradient(linear,left top,left bottom,color-stop(50%,rgba(0,0,0,0)),color-stop(99%,rgba(0,0,0,0.83)),color-stop(100%,rgba(0,0,0,0.85))); rnbackground:-webkit-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnbackground:-o-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnbackground:-ms-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnbackground:linear-gradient(to bottom,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnfilter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000',endColorstr='#d9000000',GradientType=0 )}rnrnrn.eg-georgebush-wrapper .esg-entry-cover{background:-moz-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnbackground:-webkit-gradient(linear,left top,left bottom,color-stop(50%,rgba(0,0,0,0)),color-stop(99%,rgba(0,0,0,0.83)),color-stop(100%,rgba(0,0,0,0.85))); rnbackground:-webkit-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnbackground:-o-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnbackground:-ms-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnbackground:linear-gradient(to bottom,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnfilter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000',endColorstr='#d9000000',GradientType=0 )}rnrnrnrnrn.eg-jefferson-wrapper{-webkit-border-radius:5px !important; -moz-border-radius:5px !important; border-radius:5px !important; -webkit-mask-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYGBgAAgwAAAEAAGbA+oJAAAAAElFTkSuQmCC) !important}rnrnrn.eg-monroe-element-1{text-shadow:0px 1px 3px rgba(0,0,0,0.1)}rnrnrn.eg-lyndon-johnson-wrapper .esg-entry-cover{background:-moz-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnbackground:-webkit-gradient(radial,center center,0px,center center,100%,color-stop(0%,rgba(0,0,0,0.35)),color-stop(96%,rgba(18,18,18,0)),color-stop(100%,rgba(19,19,19,0))); rnbackground:-webkit-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnbackground:-o-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnbackground:-ms-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnbackground:radial-gradient(ellipse at center,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnfilter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#59000000',endColorstr='#00131313',GradientType=1 ); rn}rnrnrn.eg-wilbert-wrapper .esg-entry-cover{background:-moz-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnbackground:-webkit-gradient(radial,center center,0px,center center,100%,color-stop(0%,rgba(0,0,0,0.35)),color-stop(96%,rgba(18,18,18,0)),color-stop(100%,rgba(19,19,19,0))); rnbackground:-webkit-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnbackground:-o-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnbackground:-ms-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnbackground:radial-gradient(ellipse at center,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnfilter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#59000000',endColorstr='#00131313',GradientType=1 ); rn}rn.eg-wilbert-wrapper .esg-entry-media img{rn -webkit-transition:0.4s ease-in-out;rn  -moz-transition:0.4s ease-in-out;rn  -o-transition:0.4s ease-in-out;rn  transition:0.4s ease-in-out;rn  filter:url("data:image/svg+xml;utf8,u003Csvg xmlns='http://www.w3.org/2000/svg'u003Eu003Cfilter id='grayscale'u003Eu003CfeColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/u003Eu003C/filteru003Eu003C/svgu003E#grayscale"); rn  filter:gray; rn  -webkit-filter:grayscale(100%); rn}rnrn.eg-wilbert-wrapper:hover .esg-entry-media img{rn  filter:url("data:image/svg+xml;utf8,u003Csvg xmlns='http://www.w3.org/2000/svg'u003Eu003Cfilter id='grayscale'u003Eu003CfeColorMatrix type='matrix' values='1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1 0'/u003Eu003C/filteru003Eu003C/svgu003E#grayscale");rn  -webkit-filter:grayscale(0%)}rnrnrn.eg-phillie-element-3:after{rncontent:" ";rnwidth:0px;rnheight:0px;rnborder-style:solid;rnborder-width:5px 5px 0 5px;rnborder-color:#000 transparent transparent transparent;rnleft:50%;rnmargin-left:-5px; bottom:-5px; position:absolute}rnrnrn.eg-howardtaft-wrapper .esg-entry-media img,.eg-howardtaft-wrapper .esg-media-poster{rn  filter:url("data:image/svg+xml;utf8,u003Csvg xmlns='http://www.w3.org/2000/svg'u003Eu003Cfilter id='grayscale'u003Eu003CfeColorMatrix type='matrix' values='1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1 0'/u003Eu003C/filteru003Eu003C/svgu003E#grayscale");rn  -webkit-filter:grayscale(0%);rn}rnrn.eg-howardtaft-wrapper:hover .esg-entry-media img,.eg-howardtaft-wrapper:hover .esg-media-poster{rn  filter:url("data:image/svg+xml;utf8,u003Csvg xmlns='http://www.w3.org/2000/svg'u003Eu003Cfilter id='grayscale'u003Eu003CfeColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/u003Eu003C/filteru003Eu003C/svgu003E#grayscale"); rn  filter:gray; rn  -webkit-filter:grayscale(100%); rn}rnrnrn.myportfolio-container .added_to_cart.wc-forward{font-family:"Open Sans"; font-size:13px; color:#fff; margin-top:10px}rnrnrn.esgbox-title.esgbox-title-outside-wrap{font-size:15px; font-weight:700; text-align:center}rn.esgbox-title.esgbox-title-inside-wrap{padding-bottom:10px; font-size:15px; font-weight:700; text-align:center}"n"rnrna.eg-henryharrison-element-1,rna.eg-henryharrison-element-2{rn -webkit-transition:all .4s linear; rn  -moz-transition:all .4s linear; rn  -o-transition:all .4s linear; rn  -ms-transition:all .4s linear; rn  transition:all .4s linear; rn}rnrnrn.eg-jimmy-carter-element-11 i:before{margin-left:0px; margin-right:0px}rnrnrnrn.eg-harding-element-17{letter-spacing:1px}rn.eg-harding-wrapper .esg-entry-media{overflow:hidden; rn   box-sizing:border-box;rn   -webkit-box-sizing:border-box;rn   -moz-box-sizing:border-box;rn   padding:30px 30px 0px 30px;rn}rnrn.eg-harding-wrapper .esg-entry-media img{overflow:hidden; rn   border-radius:50%;rn   -webkit-border-radius:50%;rn   -moz-border-radius:50%;rn}rnrnrn.eg-ulysses-s-grant-wrapper .esg-entry-media{overflow:hidden; rn   box-sizing:border-box;rn   -webkit-box-sizing:border-box;rn   -moz-box-sizing:border-box;rn   padding:30px 30px 0px 30px;rn}rnrn.eg-ulysses-s-grant-wrapper .esg-entry-media img{overflow:hidden; rn   border-radius:50%;rn   -webkit-border-radius:50%;rn   -moz-border-radius:50%;rn}rnrnrn.eg-richard-nixon-wrapper .esg-entry-media{overflow:hidden; rn   box-sizing:border-box;rn   -webkit-box-sizing:border-box;rn   -moz-box-sizing:border-box;rn   padding:30px 30px 0px 30px;rn}rnrn.eg-richard-nixon-wrapper .esg-entry-media img{overflow:hidden; rn   border-radius:50%;rn   -webkit-border-radius:50%;rn   -moz-border-radius:50%;rn}rnrnrnrn.eg-herbert-hoover-wrapper .esg-entry-media img{rn  filter:url("data:image/svg+xml;utf8,u003Csvg xmlns='http://www.w3.org/2000/svg'u003Eu003Cfilter id='grayscale'u003Eu003CfeColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/u003Eu003C/filteru003Eu003C/svgu003E#grayscale"); rn  filter:gray; rn  -webkit-filter:grayscale(100%); rn}rnrn.eg-herbert-hoover-wrapper:hover .esg-entry-media img{rn  filter:url("data:image/svg+xml;utf8,u003Csvg xmlns='http://www.w3.org/2000/svg'u003Eu003Cfilter id='grayscale'u003Eu003CfeColorMatrix type='matrix' values='1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1 0'/u003Eu003C/filteru003Eu003C/svgu003E#grayscale");rn  -webkit-filter:grayscale(0%)}rnrnrnrn.eg-lyndon-johnson-wrapper .esg-entry-media img{rn  filter:url("data:image/svg+xml;utf8,u003Csvg xmlns='http://www.w3.org/2000/svg'u003Eu003Cfilter id='grayscale'u003Eu003CfeColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/u003Eu003C/filteru003Eu003C/svgu003E#grayscale"); rn  filter:gray; rn  -webkit-filter:grayscale(100%); rn}rnrn.eg-lyndon-johnson-wrapper:hover .esg-entry-media img{rn  filter:url("data:image/svg+xml;utf8,u003Csvg xmlns='http://www.w3.org/2000/svg'u003Eu003Cfilter id='grayscale'u003Eu003CfeColorMatrix type='matrix' values='1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1 0'/u003Eu003C/filteru003Eu003C/svgu003E#grayscale");rn  -webkit-filter:grayscale(0%)}rnrnrnrn.esg-overlay.eg-ronald-reagan-container{background:-moz-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnbackground:-webkit-gradient(linear,left top,left bottom,color-stop(50%,rgba(0,0,0,0)),color-stop(99%,rgba(0,0,0,0.83)),color-stop(100%,rgba(0,0,0,0.85))); rnbackground:-webkit-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnbackground:-o-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnbackground:-ms-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnbackground:linear-gradient(to bottom,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnfilter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000',endColorstr='#d9000000',GradientType=0 )}rnrnrn.eg-georgebush-wrapper .esg-entry-cover{background:-moz-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnbackground:-webkit-gradient(linear,left top,left bottom,color-stop(50%,rgba(0,0,0,0)),color-stop(99%,rgba(0,0,0,0.83)),color-stop(100%,rgba(0,0,0,0.85))); rnbackground:-webkit-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnbackground:-o-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnbackground:-ms-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnbackground:linear-gradient(to bottom,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnfilter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000',endColorstr='#d9000000',GradientType=0 )}rnrnrnrnrn.eg-jefferson-wrapper{-webkit-border-radius:5px !important; -moz-border-radius:5px !important; border-radius:5px !important; -webkit-mask-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYGBgAAgwAAAEAAGbA+oJAAAAAElFTkSuQmCC) !important}rnrnrn.eg-monroe-element-1{text-shadow:0px 1px 3px rgba(0,0,0,0.1)}rnrnrn.eg-lyndon-johnson-wrapper .esg-entry-cover{background:-moz-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnbackground:-webkit-gradient(radial,center center,0px,center center,100%,color-stop(0%,rgba(0,0,0,0.35)),color-stop(96%,rgba(18,18,18,0)),color-stop(100%,rgba(19,19,19,0))); rnbackground:-webkit-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnbackground:-o-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnbackground:-ms-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnbackground:radial-gradient(ellipse at center,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnfilter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#59000000',endColorstr='#00131313',GradientType=1 ); rn}rnrnrn.eg-wilbert-wrapper .esg-entry-cover{background:-moz-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnbackground:-webkit-gradient(radial,center center,0px,center center,100%,color-stop(0%,rgba(0,0,0,0.35)),color-stop(96%,rgba(18,18,18,0)),color-stop(100%,rgba(19,19,19,0))); rnbackground:-webkit-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnbackground:-o-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnbackground:-ms-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnbackground:radial-gradient(ellipse at center,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnfilter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#59000000',endColorstr='#00131313',GradientType=1 ); rn}rn.eg-wilbert-wrapper .esg-entry-media img{rn -webkit-transition:0.4s ease-in-out;rn  -moz-transition:0.4s ease-in-out;rn  -o-transition:0.4s ease-in-out;rn  transition:0.4s ease-in-out;rn  filter:url("data:image/svg+xml;utf8,u003Csvg xmlns='http://www.w3.org/2000/svg'u003Eu003Cfilter id='grayscale'u003Eu003CfeColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/u003Eu003C/filteru003Eu003C/svgu003E#grayscale"); rn  filter:gray; rn  -webkit-filter:grayscale(100%); rn}rnrn.eg-wilbert-wrapper:hover .esg-entry-media img{rn  filter:url("data:image/svg+xml;utf8,u003Csvg xmlns='http://www.w3.org/2000/svg'u003Eu003Cfilter id='grayscale'u003Eu003CfeColorMatrix type='matrix' values='1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1 0'/u003Eu003C/filteru003Eu003C/svgu003E#grayscale");rn  -webkit-filter:grayscale(0%)}rnrnrn.eg-phillie-element-3:after{rncontent:" ";rnwidth:0px;rnheight:0px;rnborder-style:solid;rnborder-width:5px 5px 0 5px;rnborder-color:#000 transparent transparent transparent;rnleft:50%;rnmargin-left:-5px; bottom:-5px; position:absolute}rnrnrn.eg-howardtaft-wrapper .esg-entry-media img,.eg-howardtaft-wrapper .esg-media-poster{rn  filter:url("data:image/svg+xml;utf8,u003Csvg xmlns='http://www.w3.org/2000/svg'u003Eu003Cfilter id='grayscale'u003Eu003CfeColorMatrix type='matrix' values='1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1 0'/u003Eu003C/filteru003Eu003C/svgu003E#grayscale");rn  -webkit-filter:grayscale(0%);rn}rnrn.eg-howardtaft-wrapper:hover .esg-entry-media img,.eg-howardtaft-wrapper:hover .esg-media-poster{rn  filter:url("data:image/svg+xml;utf8,u003Csvg xmlns='http://www.w3.org/2000/svg'u003Eu003Cfilter id='grayscale'u003Eu003CfeColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/u003Eu003C/filteru003Eu003C/svgu003E#grayscale"); rn  filter:gray; rn  -webkit-filter:grayscale(100%); rn}rnrnrn.myportfolio-container .added_to_cart.wc-forward{font-family:"Open Sans"; font-size:13px; color:#fff; margin-top:10px}rnrnrn.esgbox-title.esgbox-title-outside-wrap{font-size:15px; font-weight:700; text-align:center}rn.esgbox-title.esgbox-title-inside-wrap{padding-bottom:10px; font-size:15px; font-weight:700; text-align:center}n"rnrna.eg-henryharrison-element-1,rna.eg-henryharrison-element-2{rn -webkit-transition:all .4s linear; rn  -moz-transition:all .4s linear; rn  -o-transition:all .4s linear; rn  -ms-transition:all .4s linear; rn  transition:all .4s linear; rn}rnrnrn.eg-jimmy-carter-element-11 i:before{margin-left:0px; margin-right:0px}rnrnrnrn.eg-harding-element-17{letter-spacing:1px}rn.eg-harding-wrapper .esg-entry-media{overflow:hidden; rn   box-sizing:border-box;rn   -webkit-box-sizing:border-box;rn   -moz-box-sizing:border-box;rn   padding:30px 30px 0px 30px;rn}rnrn.eg-harding-wrapper .esg-entry-media img{overflow:hidden; rn   border-radius:50%;rn   -webkit-border-radius:50%;rn   -moz-border-radius:50%;rn}rnrnrn.eg-ulysses-s-grant-wrapper .esg-entry-media{overflow:hidden; rn   box-sizing:border-box;rn   -webkit-box-sizing:border-box;rn   -moz-box-sizing:border-box;rn   padding:30px 30px 0px 30px;rn}rnrn.eg-ulysses-s-grant-wrapper .esg-entry-media img{overflow:hidden; rn   border-radius:50%;rn   -webkit-border-radius:50%;rn   -moz-border-radius:50%;rn}rnrnrn.eg-richard-nixon-wrapper .esg-entry-media{overflow:hidden; rn   box-sizing:border-box;rn   -webkit-box-sizing:border-box;rn   -moz-box-sizing:border-box;rn   padding:30px 30px 0px 30px;rn}rnrn.eg-richard-nixon-wrapper .esg-entry-media img{overflow:hidden; rn   border-radius:50%;rn   -webkit-border-radius:50%;rn   -moz-border-radius:50%;rn}rnrnrnrn.eg-herbert-hoover-wrapper .esg-entry-media img{rn  filter:url("data:image/svg+xml;utf8,u003Csvg xmlns='http://www.w3.org/2000/svg'u003Eu003Cfilter id='grayscale'u003Eu003CfeColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/u003Eu003C/filteru003Eu003C/svgu003E#grayscale"); rn  filter:gray; rn  -webkit-filter:grayscale(100%); rn}rnrn.eg-herbert-hoover-wrapper:hover .esg-entry-media img{rn  filter:url("data:image/svg+xml;utf8,u003Csvg xmlns='http://www.w3.org/2000/svg'u003Eu003Cfilter id='grayscale'u003Eu003CfeColorMatrix type='matrix' values='1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1 0'/u003Eu003C/filteru003Eu003C/svgu003E#grayscale");rn  -webkit-filter:grayscale(0%)}rnrnrnrn.eg-lyndon-johnson-wrapper .esg-entry-media img{rn  filter:url("data:image/svg+xml;utf8,u003Csvg xmlns='http://www.w3.org/2000/svg'u003Eu003Cfilter id='grayscale'u003Eu003CfeColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/u003Eu003C/filteru003Eu003C/svgu003E#grayscale"); rn  filter:gray; rn  -webkit-filter:grayscale(100%); rn}rnrn.eg-lyndon-johnson-wrapper:hover .esg-entry-media img{rn  filter:url("data:image/svg+xml;utf8,u003Csvg xmlns='http://www.w3.org/2000/svg'u003Eu003Cfilter id='grayscale'u003Eu003CfeColorMatrix type='matrix' values='1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1 0'/u003Eu003C/filteru003Eu003C/svgu003E#grayscale");rn  -webkit-filter:grayscale(0%)}rnrnrnrn.esg-overlay.eg-ronald-reagan-container{background:-moz-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnbackground:-webkit-gradient(linear,left top,left bottom,color-stop(50%,rgba(0,0,0,0)),color-stop(99%,rgba(0,0,0,0.83)),color-stop(100%,rgba(0,0,0,0.85))); rnbackground:-webkit-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnbackground:-o-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnbackground:-ms-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnbackground:linear-gradient(to bottom,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnfilter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000',endColorstr='#d9000000',GradientType=0 )}rnrnrn.eg-georgebush-wrapper .esg-entry-cover{background:-moz-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnbackground:-webkit-gradient(linear,left top,left bottom,color-stop(50%,rgba(0,0,0,0)),color-stop(99%,rgba(0,0,0,0.83)),color-stop(100%,rgba(0,0,0,0.85))); rnbackground:-webkit-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnbackground:-o-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnbackground:-ms-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnbackground:linear-gradient(to bottom,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnfilter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000',endColorstr='#d9000000',GradientType=0 )}rnrnrnrnrn.eg-jefferson-wrapper{-webkit-border-radius:5px !important; -moz-border-radius:5px !important; border-radius:5px !important; -webkit-mask-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYGBgAAgwAAAEAAGbA+oJAAAAAElFTkSuQmCC) !important}rnrnrn.eg-monroe-element-1{text-shadow:0px 1px 3px rgba(0,0,0,0.1)}rnrnrn.eg-lyndon-johnson-wrapper .esg-entry-cover{background:-moz-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnbackground:-webkit-gradient(radial,center center,0px,center center,100%,color-stop(0%,rgba(0,0,0,0.35)),color-stop(96%,rgba(18,18,18,0)),color-stop(100%,rgba(19,19,19,0))); rnbackground:-webkit-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnbackground:-o-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnbackground:-ms-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnbackground:radial-gradient(ellipse at center,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnfilter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#59000000',endColorstr='#00131313',GradientType=1 ); rn}rnrnrn.eg-wilbert-wrapper .esg-entry-cover{background:-moz-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnbackground:-webkit-gradient(radial,center center,0px,center center,100%,color-stop(0%,rgba(0,0,0,0.35)),color-stop(96%,rgba(18,18,18,0)),color-stop(100%,rgba(19,19,19,0))); rnbackground:-webkit-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnbackground:-o-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnbackground:-ms-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnbackground:radial-gradient(ellipse at center,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnfilter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#59000000',endColorstr='#00131313',GradientType=1 ); rn}rn.eg-wilbert-wrapper .esg-entry-media img{rn -webkit-transition:0.4s ease-in-out;rn  -moz-transition:0.4s ease-in-out;rn  -o-transition:0.4s ease-in-out;rn  transition:0.4s ease-in-out;rn  filter:url("data:image/svg+xml;utf8,u003Csvg xmlns='http://www.w3.org/2000/svg'u003Eu003Cfilter id='grayscale'u003Eu003CfeColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/u003Eu003C/filteru003Eu003C/svgu003E#grayscale"); rn  filter:gray; rn  -webkit-filter:grayscale(100%); rn}rnrn.eg-wilbert-wrapper:hover .esg-entry-media img{rn  filter:url("data:image/svg+xml;utf8,u003Csvg xmlns='http://www.w3.org/2000/svg'u003Eu003Cfilter id='grayscale'u003Eu003CfeColorMatrix type='matrix' values='1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1 0'/u003Eu003C/filteru003Eu003C/svgu003E#grayscale");rn  -webkit-filter:grayscale(0%)}rnrnrn.eg-phillie-element-3:after{rncontent:" ";rnwidth:0px;rnheight:0px;rnborder-style:solid;rnborder-width:5px 5px 0 5px;rnborder-color:#000 transparent transparent transparent;rnleft:50%;rnmargin-left:-5px; bottom:-5px; position:absolute}rnrnrn.eg-howardtaft-wrapper .esg-entry-media img,.eg-howardtaft-wrapper .esg-media-poster{rn  filter:url("data:image/svg+xml;utf8,u003Csvg xmlns='http://www.w3.org/2000/svg'u003Eu003Cfilter id='grayscale'u003Eu003CfeColorMatrix type='matrix' values='1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1 0'/u003Eu003C/filteru003Eu003C/svgu003E#grayscale");rn  -webkit-filter:grayscale(0%);rn}rnrn.eg-howardtaft-wrapper:hover .esg-entry-media img,.eg-howardtaft-wrapper:hover .esg-media-poster{rn  filter:url("data:image/svg+xml;utf8,u003Csvg xmlns='http://www.w3.org/2000/svg'u003Eu003Cfilter id='grayscale'u003Eu003CfeColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/u003Eu003C/filteru003Eu003C/svgu003E#grayscale"); rn  filter:gray; rn  -webkit-filter:grayscale(100%); rn}rnrnrn.myportfolio-container .added_to_cart.wc-forward{font-family:"Open Sans"; font-size:13px; color:#fff; margin-top:10px}rnrnrn.esgbox-title.esgbox-title-outside-wrap{font-size:15px; font-weight:700; text-align:center}rn.esgbox-title.esgbox-title-inside-wrap{padding-bottom:10px; font-size:15px; font-weight:700; text-align:center}"n"rnrna.eg-henryharrison-element-1,rna.eg-henryharrison-element-2{rn -webkit-transition:all .4s linear; rn  -moz-transition:all .4s linear; rn  -o-transition:all .4s linear; rn  -ms-transition:all .4s linear; rn  transition:all .4s linear; rn}rnrnrn.eg-jimmy-carter-element-11 i:before{margin-left:0px; margin-right:0px}rnrnrnrn.eg-harding-element-17{letter-spacing:1px}rn.eg-harding-wrapper .esg-entry-media{overflow:hidden; rn   box-sizing:border-box;rn   -webkit-box-sizing:border-box;rn   -moz-box-sizing:border-box;rn   padding:30px 30px 0px 30px;rn}rnrn.eg-harding-wrapper .esg-entry-media img{overflow:hidden; rn   border-radius:50%;rn   -webkit-border-radius:50%;rn   -moz-border-radius:50%;rn}rnrnrn.eg-ulysses-s-grant-wrapper .esg-entry-media{overflow:hidden; rn   box-sizing:border-box;rn   -webkit-box-sizing:border-box;rn   -moz-box-sizing:border-box;rn   padding:30px 30px 0px 30px;rn}rnrn.eg-ulysses-s-grant-wrapper .esg-entry-media img{overflow:hidden; rn   border-radius:50%;rn   -webkit-border-radius:50%;rn   -moz-border-radius:50%;rn}rnrnrn.eg-richard-nixon-wrapper .esg-entry-media{overflow:hidden; rn   box-sizing:border-box;rn   -webkit-box-sizing:border-box;rn   -moz-box-sizing:border-box;rn   padding:30px 30px 0px 30px;rn}rnrn.eg-richard-nixon-wrapper .esg-entry-media img{overflow:hidden; rn   border-radius:50%;rn   -webkit-border-radius:50%;rn   -moz-border-radius:50%;rn}rnrnrnrn.eg-herbert-hoover-wrapper .esg-entry-media img{rn  filter:url("data:image/svg+xml;utf8,u003Csvg xmlns='http://www.w3.org/2000/svg'u003Eu003Cfilter id='grayscale'u003Eu003CfeColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/u003Eu003C/filteru003Eu003C/svgu003E#grayscale"); rn  filter:gray; rn  -webkit-filter:grayscale(100%); rn}rnrn.eg-herbert-hoover-wrapper:hover .esg-entry-media img{rn  filter:url("data:image/svg+xml;utf8,u003Csvg xmlns='http://www.w3.org/2000/svg'u003Eu003Cfilter id='grayscale'u003Eu003CfeColorMatrix type='matrix' values='1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1 0'/u003Eu003C/filteru003Eu003C/svgu003E#grayscale");rn  -webkit-filter:grayscale(0%)}rnrnrnrn.eg-lyndon-johnson-wrapper .esg-entry-media img{rn  filter:url("data:image/svg+xml;utf8,u003Csvg xmlns='http://www.w3.org/2000/svg'u003Eu003Cfilter id='grayscale'u003Eu003CfeColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/u003Eu003C/filteru003Eu003C/svgu003E#grayscale"); rn  filter:gray; rn  -webkit-filter:grayscale(100%); rn}rnrn.eg-lyndon-johnson-wrapper:hover .esg-entry-media img{rn  filter:url("data:image/svg+xml;utf8,u003Csvg xmlns='http://www.w3.org/2000/svg'u003Eu003Cfilter id='grayscale'u003Eu003CfeColorMatrix type='matrix' values='1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1 0'/u003Eu003C/filteru003Eu003C/svgu003E#grayscale");rn  -webkit-filter:grayscale(0%)}rnrnrnrn.esg-overlay.eg-ronald-reagan-container{background:-moz-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnbackground:-webkit-gradient(linear,left top,left bottom,color-stop(50%,rgba(0,0,0,0)),color-stop(99%,rgba(0,0,0,0.83)),color-stop(100%,rgba(0,0,0,0.85))); rnbackground:-webkit-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnbackground:-o-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnbackground:-ms-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnbackground:linear-gradient(to bottom,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnfilter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000',endColorstr='#d9000000',GradientType=0 )}rnrnrn.eg-georgebush-wrapper .esg-entry-cover{background:-moz-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnbackground:-webkit-gradient(linear,left top,left bottom,color-stop(50%,rgba(0,0,0,0)),color-stop(99%,rgba(0,0,0,0.83)),color-stop(100%,rgba(0,0,0,0.85))); rnbackground:-webkit-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnbackground:-o-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnbackground:-ms-linear-gradient(top,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnbackground:linear-gradient(to bottom,rgba(0,0,0,0) 50%,rgba(0,0,0,0.83) 99%,rgba(0,0,0,0.85) 100%); rnfilter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000',endColorstr='#d9000000',GradientType=0 )}rnrnrnrnrn.eg-jefferson-wrapper{-webkit-border-radius:5px !important; -moz-border-radius:5px !important; border-radius:5px !important; -webkit-mask-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYGBgAAgwAAAEAAGbA+oJAAAAAElFTkSuQmCC) !important}rnrnrn.eg-monroe-element-1{text-shadow:0px 1px 3px rgba(0,0,0,0.1)}rnrnrn.eg-lyndon-johnson-wrapper .esg-entry-cover{background:-moz-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnbackground:-webkit-gradient(radial,center center,0px,center center,100%,color-stop(0%,rgba(0,0,0,0.35)),color-stop(96%,rgba(18,18,18,0)),color-stop(100%,rgba(19,19,19,0))); rnbackground:-webkit-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnbackground:-o-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnbackground:-ms-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnbackground:radial-gradient(ellipse at center,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnfilter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#59000000',endColorstr='#00131313',GradientType=1 ); rn}rnrnrn.eg-wilbert-wrapper .esg-entry-cover{background:-moz-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnbackground:-webkit-gradient(radial,center center,0px,center center,100%,color-stop(0%,rgba(0,0,0,0.35)),color-stop(96%,rgba(18,18,18,0)),color-stop(100%,rgba(19,19,19,0))); rnbackground:-webkit-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnbackground:-o-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnbackground:-ms-radial-gradient(center,ellipse cover,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnbackground:radial-gradient(ellipse at center,rgba(0,0,0,0.35) 0%,rgba(18,18,18,0) 96%,rgba(19,19,19,0) 100%); rnfilter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#59000000',endColorstr='#00131313',GradientType=1 ); rn}rn.eg-wilbert-wrapper .esg-entry-media img{rn -webkit-transition:0.4s ease-in-out;rn  -moz-transition:0.4s ease-in-out;rn  -o-transition:0.4s ease-in-out;rn  transition:0.4s ease-in-out;rn  filter:url("data:image/svg+xml;utf8,u003Csvg xmlns='http://www.w3.org/2000/svg'u003Eu003Cfilter id='grayscale'u003Eu003CfeColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/u003Eu003C/filteru003Eu003C/svgu003E#grayscale"); rn  filter:gray; rn  -webkit-filter:grayscale(100%); rn}rnrn.eg-wilbert-wrapper:hover .esg-entry-media img{rn  filter:url("data:image/svg+xml;utf8,u003Csvg xmlns='http://www.w3.org/2000/svg'u003Eu003Cfilter id='grayscale'u003Eu003CfeColorMatrix type='matrix' values='1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1 0'/u003Eu003C/filteru003Eu003C/svgu003E#grayscale");rn  -webkit-filter:grayscale(0%)}rnrnrn.eg-phillie-element-3:after{rncontent:" ";rnwidth:0px;rnheight:0px;rnborder-style:solid;rnborder-width:5px 5px 0 5px;rnborder-color:#000 transparent transparent transparent;rnleft:50%;rnmargin-left:-5px; bottom:-5px; position:absolute}rnrnrn.eg-howardtaft-wrapper .esg-entry-media img,.eg-howardtaft-wrapper .esg-media-poster{rn  filter:url("data:image/svg+xml;utf8,u003Csvg xmlns='http://www.w3.org/2000/svg'u003Eu003Cfilter id='grayscale'u003Eu003CfeColorMatrix type='matrix' values='1 0 0 0 0,0 1 0 0 0,0 0 1 0 0,0 0 0 1 0'/u003Eu003C/filteru003Eu003C/svgu003E#grayscale");rn  -webkit-filter:grayscale(0%);rn}rnrn.eg-howardtaft-wrapper:hover .esg-entry-media img,.eg-howardtaft-wrapper:hover .esg-media-poster{rn  filter:url("data:image/svg+xml;utf8,u003Csvg xmlns='http://www.w3.org/2000/svg'u003Eu003Cfilter id='grayscale'u003Eu003CfeColorMatrix type='matrix' values='0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0'/u003Eu003C/filteru003Eu003C/svgu003E#grayscale"); rn  filter:gray; rn  -webkit-filter:grayscale(100%); rn}rnrnrn.myportfolio-container .added_to_cart.wc-forward{font-family:"Open Sans"; font-size:13px; color:#fff; margin-top:10px}rnrnrn.esgbox-title.esgbox-title-outside-wrap{font-size:15px; font-weight:700; text-align:center}rn.esgbox-title.esgbox-title-inside-wrap{padding-bottom:10px; font-size:15px; font-weight:700; text-align:center}"""</style>
-<style type="text/css">.minimal-light .navigationbuttons,.minimal-light .esg-pagination,.minimal-light .esg-filters{text-align:center}.minimal-light .esg-filterbutton,.minimal-light .esg-navigationbutton,.minimal-light .esg-sortbutton,.minimal-light .esg-cartbutton a{color:#999; margin-right:5px; cursor:pointer; padding:0px 16px; border:1px solid #e5e5e5; line-height:38px; border-radius:5px; -moz-border-radius:5px; -webkit-border-radius:5px; font-size:12px; font-weight:700; font-family:"Open Sans",sans-serif; display:inline-block; background:#fff; margin-bottom:5px}.minimal-light .esg-navigationbutton *{color:#999}.minimal-light .esg-navigationbutton{padding:0px 16px}.minimal-light .esg-pagination-button:last-child{margin-right:0}.minimal-light .esg-left,.minimal-light .esg-right{padding:0px 11px}.minimal-light .esg-sortbutton-wrapper,.minimal-light .esg-cartbutton-wrapper{display:inline-block}.minimal-light .esg-sortbutton-order,.minimal-light .esg-cartbutton-order{display:inline-block;  vertical-align:top;  border:1px solid #e5e5e5;  width:40px;  line-height:38px;  border-radius:0px 5px 5px 0px;  -moz-border-radius:0px 5px 5px 0px;  -webkit-border-radius:0px 5px 5px 0px;  font-size:12px;  font-weight:700;  color:#999;  cursor:pointer;  background:#fff}.minimal-light .esg-cartbutton{color:#333; cursor:default !important}.minimal-light .esg-cartbutton .esgicon-basket{color:#333;   font-size:15px;   line-height:15px;   margin-right:10px}.minimal-light .esg-cartbutton-wrapper{cursor:default !important}.minimal-light .esg-sortbutton,.minimal-light .esg-cartbutton{display:inline-block; position:relative; cursor:pointer; margin-right:0px; border-right:none; border-radius:5px 0px 0px 5px; -moz-border-radius:5px 0px 0px 5px; -webkit-border-radius:5px 0px 0px 5px}.minimal-light .esg-navigationbutton:hover,.minimal-light .esg-filter
+<style type="text/css">.minimal-light .navigationbuttons,.minimal-light .esg-pagination,.minimal-light .esg-filters{text-align:center}.minimal-light .esg-filterbutton,.minimal-light .esg-navigationbutton,.minimal-light .esg-sortbutton,.minimal-light .esg-cartbutton a{color:#999; margin-right:5px; cursor:pointer; padding:0px 16px; border:1px solid #e5e5e5; line-height:38px; border-radius:5px; -moz-border-radius:5px; -webkit-border-radius:5px; font-size:12px; font-weight:700; font-family:"Open Sans",sans-serif; display:inline-block; background:#fff; margin-bottom:5px}.minimal-light .esg-navigationbutton *{color:#999}.minimal-light .esg-navigationbutton{padding:0px 16px}.minimal-light .esg-pagination-button:last-child{margin-right:0}.minimal-light .esg-left,.minimal-light .esg-right{padding:0px 11px}.minimal-light .esg-sortbutton-wrapper,.minimal-light .esg-cartbutton-wrapper{display:inline-block}.minimal-light .esg-sortbutton-order,.minimal-light .esg-cartbutton-order{display:inline-block;  vertical-align:top;  border:1px solid #e5e5e5;  width:40px;  line-height:38px;  border-radius:0px 5px 5px 0px;  -moz-border-radius:0px 5px 5px 0px;  -webkit-border-radius:0px 5px 5px 0px;  font-size:12px;  font-weight:700;  color:#999;  cursor:pointer;  background:#fff}.minimal-light .esg-cartbutton{color:#333; cursor:default !important}.minimal-light .esg-cartbutton .esgicon-basket{color:#333;   font-size:15px;   line-height:15px;   margin-right:10px}.minimal-light .esg-cartbutton-wrapper{cursor:default !important}.minimal-light .esg-sortbutton,.minimal-light .esg-cartbutton{display:inline-block; position:relative; cursor:pointer; margin-right:0px; border-right:none; border-radius:5px 0px 0px 5px; -moz-border-radius:5px 0px 0px 5px; -webkit-border-radius:5px 0px 0px 5px}.minimal-light .esg-navigationbutton:hover,.minimal-light .esg-filterbutton:hover,.minimal-light .esg-sortbutton:hover,.minimal-light .esg-sortbutton-order:hover,.minimal-light .esg-cartbutton a:hover,.minimal-light .esg-filterbutton.selected{background-color:#fff;   border-color:#bbb;   color:#333;   box-shadow:0px 3px 5px 0px rgba(0,0,0,0.13)}.minimal-light .esg-navigationbutton:hover *{color:#333}.minimal-light .esg-sortbutton-order.tp-desc:hover{border-color:#bbb; color:#333; box-shadow:0px -3px 5px 0px rgba(0,0,0,0.13) !important}.minimal-light .esg-filter-checked{padding:1px 3px;  color:#cbcbcb;  background:#cbcbcb;  margin-left:7px;  font-size:9px;  font-weight:300;  line-height:9px;  vertical-align:middle}.minimal-light .esg-filterbutton.selected .esg-filter-checked,.minimal-light .esg-filterbutton:hover .esg-filter-checked{padding:1px 3px 1px 3px;  color:#fff;  background:#000;  margin-left:7px;  font-size:9px;  font-weight:300;  line-height:9px;  vertical-align:middle}</style>
+<style type="text/css">.eg-washington-element-12{font-size:16px !important; line-height:22px !important; color:#000000 !important; font-weight:400 !important; padding:17px 17px 17px 17px !important; border-radius:60px 60px 60px 60px !important; background:#ffffff !important; z-index:2 !important; display:block; border-top-width:2px !important; border-right-width:2px !important; border-bottom-width:2px !important; border-left-width:2px !important; border-color:#ffffff !important; border-style:solid !important}.eg-washington-element-3{font-size:13px; line-height:20px; color:#000000; font-weight:700; display:inline-block; float:none; clear:both; margin:15px 0px 0px 0px ; padding:5px 10px 5px 10px ; border-radius:0px 0px 0px 0px ; background:#ffffff; position:relative; z-index:2 !important; font-family:"Open Sans"; text-transform:uppercase}</style>
+<style type="text/css">.eg-washington-element-12:hover{font-size:16px !important; line-height:22px !important; color:#000000 !important; font-weight:400 !important; border-radius:60px 60px 60px 60px !important; background:#ffffff !important; border-top-width:2px !important; border-right-width:2px !important; border-bottom-width:2px !important; border-left-width:2px !important; border-color:#ffffff !important; border-style:solid !important}</style>
+<style type="text/css">.eg-washington-element-12-a{display:inline-block !important; float:none !important; clear:none !important; margin:0px 10px 0px 0px !important; position:relative !important}</style>
+<style type="text/css">.eg-washington-container{background:rgba(0,0,0,0.67)}</style>
+<style type="text/css">.eg-washington-content{background:#ffffff; padding:0px 0px 0px 0px; border-width:0px 0px 0px 0px; border-radius:0px 0px 0px 0px; border-color:transparent; border-style:double; text-align:left}</style>
+<style type="text/css">.esg-grid .mainul li.eg-washington-wrapper{background:#3f424a; padding:0px 0px 0px 0px; border-width:0px 0px 0px 0px; border-radius:0px 0px 0px 0px; border-color:transparent; border-style:none}</style>
+<style type="text/css">.esg-grid .mainul li.eg-washington-wrapper .esg-media-poster{background-size:cover; background-position:center center; background-repeat:no-repeat}</style>
+<!-- THE ESSENTIAL GRID 3.1.1 POST -->
+
+<article class="myportfolio-container esg-grid-wrap-container minimal-light esg-entry-skin-washington source_type_post" id="esg-grid-31-1-wrap" data-alias="homeimh">
+
+   <div id="esg-grid-31-1" class="esg-grid" style="background: transparent;padding: 0px 0px 0px 0px ; box-sizing:border-box; -moz-box-sizing:border-box; -webkit-box-sizing:border-box;">
+<ul>
+<li id="eg-31-post-id-196_7543" data-skin="washington" class="filterall filter-buildings eg-washington-wrapper eg-post-id-196" data-date="1425461350">
+    <div class="esg-media-cover-wrapper">
+<div class="esg-entry-media"><img class="esg-entry-media-img" src="/wp-content/uploads/2015/03/imagen.jpg" data-no-lazy="1" alt="" width="471" height="337"></div>
+
+            <div class="esg-entry-cover esg-transition" data-delay="0" data-duration="default" data-transition="esg-fade">
+
+                <div class="esg-overlay esg-transition eg-washington-container" data-delay="0" data-duration="default" data-transition="esg-fade"></div>
+
+				<div class="esg-center eg-post-196 eg-washington-element-12-a esg-transition" data-delay="0.1" data-duration="default" data-transition="esg-slideright"><a class="eg-washington-element-12 eg-post-196 esgbox" data-thumb="https://grupovisbal.fastandstatic.com/wp-content/uploads/2015/03/imagen-200x143.jpg" href="/wp-content/uploads/2015/03/imagen.jpg" data-width="471" data-height="337"><i class="eg-icon-search"></i></a></div>
+              <div class="esg-center eg-washington-element-8 esg-none esg-clear esg-line-break"></div>
+				<div class="esg-center eg-post-196 eg-washington-element-3 esg-transition" data-delay="0.1" data-duration="default" data-transition="esg-flipup">PUENTE BANDEJA PORTACABLES</div>
+              <div class="esg-center eg-washington-element-9 esg-none esg-clear esg-line-break"></div>
+           </div>
+   </div>
+
+</li>
+<li id="eg-31-post-id-75165_2024" data-skin="washington" class="filterall filter-buildings eg-washington-wrapper eg-post-id-75165" data-date="1457121934">
+    <div class="esg-media-cover-wrapper">
+<div class="esg-entry-media"><img class="esg-entry-media-img" src="/wp-content/uploads/2016/03/img-2.jpg" data-no-lazy="1" alt="" width="471" height="337"></div>
+
+            <div class="esg-entry-cover esg-transition" data-delay="0" data-duration="default" data-transition="esg-fade">
+
+                <div class="esg-overlay esg-transition eg-washington-container" data-delay="0" data-duration="default" data-transition="esg-fade"></div>
+
+				<div class="esg-center eg-post-75165 eg-washington-element-12-a esg-transition" data-delay="0.1" data-duration="default" data-transition="esg-slideright"><a class="eg-washington-element-12 eg-post-75165 esgbox" data-thumb="https://grupovisbal.fastandstatic.com/wp-content/uploads/2016/03/img-2-200x143.jpg" href="/wp-content/uploads/2016/03/img-2.jpg" data-width="471" data-height="337"><i class="eg-icon-search"></i></a></div>
+              <div class="esg-center eg-washington-element-8 esg-none esg-clear esg-line-break"></div>
+				<div class="esg-center eg-post-75165 eg-washington-element-3 esg-transition" data-delay="0.1" data-duration="default" data-transition="esg-flipup">TORRE DE TRANSFERENCIA</div>
+              <div class="esg-center eg-washington-element-9 esg-none esg-clear esg-line-break"></div>
+           </div>
+   </div>
+
+</li>
+<li id="eg-31-post-id-75167_1227" data-skin="washington" class="filterall filter-buildings eg-washington-wrapper eg-post-id-75167" data-date="1457122024">
+    <div class="esg-media-cover-wrapper">
+<div class="esg-entry-media"><img class="esg-entry-media-img" src="/wp-content/uploads/2016/03/img-3.jpg" data-no-lazy="1" alt="" width="471" height="337"></div>
+
+            <div class="esg-entry-cover esg-transition" data-delay="0" data-duration="default" data-transition="esg-fade">
+
+                <div class="esg-overlay esg-transition eg-washington-container" data-delay="0" data-duration="default" data-transition="esg-fade"></div>
+
+				<div class="esg-center eg-post-75167 eg-washington-element-12-a esg-transition" data-delay="0.1" data-duration="default" data-transition="esg-slideright"><a class="eg-washington-element-12 eg-post-75167 esgbox" data-thumb="https://grupovisbal.fastandstatic.com/wp-content/uploads/2016/03/img-3-200x143.jpg" href="/wp-content/uploads/2016/03/img-3.jpg" data-width="471" data-height="337"><i class="eg-icon-search"></i></a></div>
+              <div class="esg-center eg-washington-element-8 esg-none esg-clear esg-line-break"></div>
+				<div class="esg-center eg-post-75167 eg-washington-element-3 esg-transition" data-delay="0.1" data-duration="default" data-transition="esg-flipup">SILOS DE ALMACENAMIENTO</div>
+              <div class="esg-center eg-washington-element-9 esg-none esg-clear esg-line-break"></div>
+           </div>
+   </div>
+
+</li>
+<li id="eg-31-post-id-75169_553" data-skin="washington" class="filterall filter-buildings eg-washington-wrapper eg-post-id-75169" data-date="1457122101">
+    <div class="esg-media-cover-wrapper">
+<div class="esg-entry-media"><img class="esg-entry-media-img" src="/wp-content/uploads/2016/03/imaggen.jpg" data-no-lazy="1" alt="" width="471" height="337"></div>
+
+            <div class="esg-entry-cover esg-transition" data-delay="0" data-duration="default" data-transition="esg-fade">
+
+                <div class="esg-overlay esg-transition eg-washington-container" data-delay="0" data-duration="default" data-transition="esg-fade"></div>
+
+				<div class="esg-center eg-post-75169 eg-washington-element-12-a esg-transition" data-delay="0.1" data-duration="default" data-transition="esg-slideright"><a class="eg-washington-element-12 eg-post-75169 esgbox" data-thumb="https://grupovisbal.fastandstatic.com/wp-content/uploads/2016/03/imaggen-200x143.jpg" href="/wp-content/uploads/2016/03/imaggen.jpg" data-width="471" data-height="337"><i class="eg-icon-search"></i></a></div>
+              <div class="esg-center eg-washington-element-8 esg-none esg-clear esg-line-break"></div>
+				<div class="esg-center eg-post-75169 eg-washington-element-3 esg-transition" data-delay="0.1" data-duration="default" data-transition="esg-flipup">CHIMENEA BAGHOUSE OFF GAS SYSTEM</div>
+              <div class="esg-center eg-washington-element-9 esg-none esg-clear esg-line-break"></div>
+           </div>
+   </div>
+
+</li>
+</ul>
+    </div>
+
+</article>
+<div class="clear"></div>
+<script type="text/javascript">var essapi_31_1;
+function esginit_31_1() {
+jQuery(document).ready(function() {
+  var lightboxOptions = {
+        margin : [0,0,0,0],
+        buttons : ["share","thumbs","close"],
+        infobar : true,
+        loop : true,
+        slideShow : {"autoStart": false, "speed": 3000},
+        videoAutoPlay : true,
+        animationEffect : "fade",
+        animationDuration : 500,
+        beforeShow: function(a, c) {
+          var i = 0,
+              multiple = false;
+          a = a.slides;
+          for(var b in a) {
+            i++;
+            if (i > 1) {
+              multiple = true;
+              break;
+            }
+          }
+          if (!multiple) jQuery("body").addClass("esgbox-single");
+          if (c.type === "image") jQuery(".esgbox-button--zoom").show();
+          if (c.contentType === "html") c.$slide.addClass("esgbox-slide--overflow-" + c.opts.overflow);
+        },
+        beforeLoad: function(a, b) {
+          jQuery("body").removeClass("esg-four-by-three");
+          if (b.opts.$orig.data("ratio") === "4:3") jQuery("body").addClass("esg-four-by-three");
+        },
+        afterLoad: function() {jQuery(window).trigger("resize.esglb");},
+        afterClose : function() {jQuery("body").removeClass("esgbox-hidearrows esgbox-single");},
+        transitionEffect : "fade",
+        transitionDuration : 366,
+        hash : "group",
+        arrows : true,
+        wheel : false,
+        baseClass : "esgbox-container-31",
+        captionPosition : "bottom",
+        overflow : "auto",
+  };
+
+  jQuery("#esg-grid-31-1").data("lightboxsettings", lightboxOptions);
+
+  essapi_31_1 = jQuery("#esg-grid-31-1").tpessential({
+        gridID:31,
+        layout:"even",
+        lazyLoad:"off",
+        row:1,
+        apiName: "essapi_31_1",
+        loadMoreAjaxToken:"77003058e5",
+        loadMoreAjaxUrl:"/wp-admin/admin-ajax.php",
+        loadMoreAjaxAction:"Essential_Grid_Front_request_ajax",
+        ajaxContentTarget:"ess-grid-ajax-container-",
+        ajaxScrollToOffset:"0",
+        ajaxCloseButton:"off",
+        ajaxContentSliding:"on",
+        ajaxScrollToOnLoad:"on",
+        ajaxCallbackArgument:"off",
+        ajaxNavButton:"off",
+        ajaxCloseType:"type1",
+        ajaxCloseInner:"false",
+        ajaxCloseStyle:"light",
+        ajaxClosePosition:"tr",
+        space:0,
+        pageAnimation:"fade",
+        videoPlaybackInGrid: "on",
+        videoLoopInGrid: "on",
+        videoPlaybackOnHover: "off",
+        videoInlineMute: "on",
+        videoInlineControls: "off",
+        keepLayersInline: "off",
+        startAnimation: "none",
+        startAnimationSpeed: 1000,
+        startAnimationDelay: 100,
+        startAnimationType: "item",
+        animationType: "item",
+        paginationScrollToTop:"off",
+        paginationAutoplay:"off",
+        spinner:"spinner0",
+        forceFullWidth:"on",
+        minVisibleItems:3,
+        evenGridMasonrySkinPusher:"off",
+        lightBoxMode:"single",
+        lightboxHash:"group",
+        lightboxPostMinWid:"75%",
+        lightboxPostMaxWid:"75%",
+        lightboxSpinner:"off",
+        lightBoxFeaturedImg:"off",
+        lightBoxPostTitle:"off",
+        lightBoxPostTitleTag:"h2",
+        lightboxMargin : "0|0|0|0",
+        lbContentPadding : "0|0|0|0",
+        lbContentOverflow : "auto",
+        animSpeed:1000,
+        delayBasic:1,
+        mainhoverdelay:1,
+        filterType:"single",
+        showDropFilter:"hover",
+        filterGroupClass:"esg-fgc-31",
+        filterNoMatch:"No Items for the Selected Filter",
+        filterDeepLink:"off",
+        hideMarkups: "on",
+        inViewport: true,
+        viewportBuffer: 20,
+        youtubeNoCookie:"false",
+        convertFilterMobile:false,
+        convertFilterMobileWidth:768,
+        paginationSwipe: "off",
+        paginationDragVer: "on",
+        pageSwipeThrottle: 30,
+        aspectratio:"4:3",
+        hideBlankItemsAt: "1",
+        responsiveEntries: [
+            { width:1900,amount:4,mmheight:0},
+            { width:1400,amount:4,mmheight:0},
+            { width:1170,amount:4,mmheight:0},
+            { width:1024,amount:4,mmheight:0},
+            { width:960,amount:3,mmheight:0},
+            { width:778,amount:3,mmheight:0},
+            { width:640,amount:3,mmheight:0},
+            { width:480,amount:1,mmheight:0},
+            ],
+        googleFonts: ['Open+Sans:300,400,600,700,800','Raleway:100,200,300,400,500,600,700,800,900','Droid+Serif:400,700']
+  });
+
+
+});
+} // End of EsgInitScript
+var once_31_1 = false;
+if (document.readyState === "loading") document.addEventListener('readystatechange',function() { if ((document.readyState === "interactive" || document.readyState === "complete") && !once_31_1 ) { once_31_1 = true; esginit_31_1();}}); else {once_31_1 = true; esginit_31_1();}</script>
+</div></div></div></div></div>
+<div class="vc_row wpb_row  intro  "><div class=" boxed"><div class="container"><div class="vc_row">
+<div class="wpb_column vc_column_container col-sm-8 vc_col-sm-8 col-lg-8 vc_col-lg-8"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_custom_heading"><h3 style="font-size: 22px;color: #ffffff;text-align: left">TRABAJA JUNTO A LOS MEJORES!</h3></div></div></div></div>
+<div class="wpb_column vc_column_container col-sm-4 vc_col-sm-4 col-lg-4 vc_col-lg-4"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="vc_button-2-wrapper vc_button-2-align-inline"><a class="vc_btn vc_btn_white vc_btn-white vc_btn_md vc_btn-md vc_btn_square" href="http://grupovisbal.com/contactenos/" title="" target="">CONTÁCTENOS</a></div>
+</div></div></div>
+</div></div></div></div>
+</div>											</div>
+				</article>
+				<div class="container">
+									</div>
+					</main>
+	</div>
+
+<div class="bottom-wrapper">
+			<footer class="footer" role="contentinfo" itemscope="itemscope" itemtype="http://schema.org/WPFooter">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4">
+						<aside id="text-3" class="widget widget_text"><h3 class="widget-title">La Empresa</h3>			<div class="textwidget">
+<p><img src="http://grupovisbal.com/wp-content/uploads/2015/11/logo-01.png" alt="" width="150px;"></p>
+<p>Somos un grupo empresarial líder en el mercado regional en el desarrollo de soluciones integradas en proyectos de ingeniería, fabricaciones metalmecánicas, etc.</p>
+</div>
+		</aside>						<div class="social">
+							<div class="menu-social-profile-links-container"><ul id="menu-social-profile-links-1" class="menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74542"><a href="https://www.facebook.com/grupovisbal/">facebook</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74544"><a href="https://www.instagram.com/grupo_visbal/">Instagram</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-76241"><a href="https://twitter.com/grupo_visbal">Twitter</a></li>
+</ul></div>						</div>
+					</div>
+					<div class="col-md-4">
+						<aside id="text-12" class="widget widget_text"><h3 class="widget-title">Certificación</h3>			<div class="textwidget">
+<p><a href="https://grupovisbal.com/wp-content/uploads/2021/06/Grupo-2-1.png" target="_blank" rel="noopener"><img decoding="async" loading="lazy" class="alignnone wp-image-76270 size-full" src="https://grupovisbal.com/wp-content/uploads/2021/06/Grupo-2-1.png" alt="" width="808" height="887" srcset="/wp-content/uploads/2021/06/Grupo-2-1.png 808w, /wp-content/uploads/2021/06/Grupo-2-1-273x300.png 273w, /wp-content/uploads/2021/06/Grupo-2-1-768x843.png 768w" sizes="(max-width: 808px) 100vw, 808px"></a></p>
+</div>
+		</aside>					</div>
+					<div class="col-md-4">
+						<aside id="text-4" class="widget widget_text"><h3 class="widget-title">Contáctanos</h3>			<div class="textwidget">
+<p><i class="fa fa-map-marker"></i> Km 5 vía juan mina
+</p>
+
+<p><i class="fa fa-envelope"></i> comercial@grupovisbal.com </p>
+<p><i class="fa fa-fax"></i> PBX 605 3100650 </p>
+<p><i class="fa fa-clock-o"></i> Lun - Vier: 8:00 - 17:00</p>
+<p><i class="fa fa-clock-o"></i> Sab: 8:00 - 12:00</p>
+<br>
+</div>
+		</aside>					</div>
+				</div>
+			</div>
+		</footer><!--/footer-->
+				<div class="copyright">
+			<div class="container">
+				Grupo Visbal 2018 - Desarrollado por <a href="http://e-me.co/">e-me.co Agencia Digital</a>			</div>
+		</div>
+	</div>
+</div>
+<!--/#page-->
+	<a class="scrollup"><i class="fas fa-angle-up"></i></a>
+<nav id="menu">
+	<div class="primary-menu"><ul id="primary-menu" class="menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-73807 current_page_item menu-item-74630"><a href="/">Inicio</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-75048">
+<a href="#">Empresas</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74889"><a href="/quienes-somos-2/">Quiénes Somos</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-75053">
+<a href="/industrias-metalicas-visbal-2/">Industrias Metálicas Visbal</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75103"><a href="/mision-y-vision/">Misión Visión y Politicas</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-74640">
+<a href="/visbal-moreno/">Visbal Moreno</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75125"><a href="/mision-vision-y-politica/">Misión Visión y Politica</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-75373">
+<a href="#">Líneas de Negocio</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75243"><a href="/proyecto-y-estructura-metalica/">Proyectos y Estructuras Metálicas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75244"><a href="/rejillas-metalicas/">Rejillas Metálicas</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75245"><a href="/herrajes/">Herrajes</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75246"><a href="/postes-metalicos/">Postes Metálicos</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75247"><a href="/galvanizado-en-caliente/">Galvanizado en Caliente y Acabados</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75248"><a href="/transporte/">Transporte y Suministro de Material</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74652"><a href="/nuestros-clientes/">Clientes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74557"><a href="/our-projects/proyectos/">Proyectos</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-74642"><a href="/descargas/">Descargas</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-75134">
+<a href="#">contáctanos</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75137"><a href="/contactenos/">Contacto</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75130"><a href="/contacto-y-pqr/">PQR</a></li>
+</ul>
+</li>
+</ul></div></nav>
+
+		<script>window.RS_MODULES = window.RS_MODULES || {};
+			window.RS_MODULES.modules = window.RS_MODULES.modules || {};
+			window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
+			window.RS_MODULES.defered = false;
+			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
+			window.RS_MODULES.type = 'compiled';</script>
+				<script>var ajaxRevslider;
+			function rsCustomAjaxContentLoadingFunction() {
+				// CUSTOM AJAX CONTENT LOADING FUNCTION
+				ajaxRevslider = function(obj) {
+				
+					// obj.type : Post Type
+					// obj.id : ID of Content to Load
+					// obj.aspectratio : The Aspect Ratio of the Container / Media
+					// obj.selector : The Container Selector where the Content of Ajax will be injected. It is done via the Essential Grid on Return of Content
+					
+					var content	= '';
+					var data	= {
+						action:			'revslider_ajax_call_front',
+						client_action:	'get_slider_html',
+						token:			'b3f6a70ede',
+						type:			obj.type,
+						id:				obj.id,
+						aspectratio:	obj.aspectratio
+					};
+					
+					// SYNC AJAX REQUEST
+					jQuery.ajax({
+						type:		'post',
+						url:		'/wp-admin/admin-ajax.php',
+						dataType:	'json',
+						data:		data,
+						async:		false,
+						success:	function(ret, textStatus, XMLHttpRequest) {
+							if(ret.success == true)
+								content = ret.data;								
+						},
+						error:		function(e) {
+							console.log(e);
+						}
+					});
+					
+					 // FIRST RETURN THE CONTENT WHEN IT IS LOADED !!
+					 return content;						 
+				};
+				
+				// CUSTOM AJAX FUNCTION TO REMOVE THE SLIDER
+				var ajaxRemoveRevslider = function(obj) {
+					return jQuery(obj.selector + ' .rev_slider').revkill();
+				};
+
+
+				// EXTEND THE AJAX CONTENT LOADING TYPES WITH TYPE AND FUNCTION				
+				if (jQuery.fn.tpessential !== undefined) 					
+					if(typeof(jQuery.fn.tpessential.defaults) !== 'undefined') 
+						jQuery.fn.tpessential.defaults.ajaxTypes.push({type: 'revslider', func: ajaxRevslider, killfunc: ajaxRemoveRevslider, openAnimationSpeed: 0.3});   
+						// type:  Name of the Post to load via Ajax into the Essential Grid Ajax Container
+						// func: the Function Name which is Called once the Item with the Post Type has been clicked
+						// killfunc: function to kill in case the Ajax Window going to be removed (before Remove function !
+						// openAnimationSpeed: how quick the Ajax Content window should be animated (default is 0.3)					
+			}
+			
+			var rsCustomAjaxContent_Once = false
+			if (document.readyState === "loading") 
+				document.addEventListener('readystatechange',function(){
+					if ((document.readyState === "interactive" || document.readyState === "complete") && !rsCustomAjaxContent_Once) {
+						rsCustomAjaxContent_Once = true;
+						rsCustomAjaxContentLoadingFunction();
+					}
+				});
+			else {
+				rsCustomAjaxContent_Once = true;
+				rsCustomAjaxContentLoadingFunction();
+			}</script>
+		
+	<script>(
+			function( $ ) {
+				jQuery( window ).on( 'resize', function() {
+					if ( $( window ).width() >= 992 ) {
+						$( '#page' ).css( 'padding-bottom', $( '.uncover .bottom-wrapper' ).outerHeight() );
+					}
+				} );
+
+				jQuery( window ).on( 'load', function() {
+					jQuery( window ).trigger( 'resize' );
+				} );
+			}
+		)( jQuery );</script>
+
+				<script>jQuery( document ).ready( function( $ ) {
+									$( ".header" ).headroom(
+												{
+														offset: 44
+													}
+					);
+			} );</script>
+				<script>jQuery( document ).ready( function( $ ) {
+				var $window = $( window );
+				// Scroll up
+				var $scrollup = $( '.scrollup' );
+
+				$window.scroll( function() {
+					if ( $window.scrollTop() > 100 ) {
+						$scrollup.addClass( 'show' );
+					} else {
+						$scrollup.removeClass( 'show' );
+					}
+				} );
+
+				$scrollup.on( 'click', function( evt ) {
+					$( "html, body" ).animate( { scrollTop: 0 }, 600 );
+					evt.preventDefault();
+				} );
+			} );</script>
+			<script type="text/html" id="wpb-modifications"> window.wpbCustomElement = 1; </script><link href="https://fonts.googleapis.com/css?family=Roboto:400%7CMontserrat:400%2C500%2C700%2C600&display=swap" rel="stylesheet" property="stylesheet" media="all" type="text/css">
+
+<script>if(typeof revslider_showDoubleJqueryError === "undefined") {function revslider_showDoubleJqueryError(sliderID) {console.log("You have some jquery.js library include that comes after the Slider Revolution files js inclusion.");console.log("To fix this, you can:");console.log("1. Set 'Module General Options' -> 'Advanced' -> 'jQuery & OutPut Filters' -> 'Put JS to Body' to on");console.log("2. Find the double jQuery.js inclusion and remove it");return "Double Included jQuery Library";}}</script>
+			<link rel="preload" as="font" id="rs-icon-set-revicon-woff" href="/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888" type="font/woff" crossorigin="anonymous" media="all">
+<link rel="stylesheet" id="magnific-popup-css" href="/wp-content/plugins/thememove-core/popup/assets/css/magnific-popup.css?ver=6.2.4" type="text/css" media="all">
+<link rel="stylesheet" id="animate-css" href="/wp-content/plugins/thememove-core/popup/assets/css/animate.css?ver=6.2.4" type="text/css" media="all">
+<link rel="stylesheet" id="tm-popup-css" href="/wp-content/plugins/thememove-core/popup/assets/css/popup.css?ver=6.2.4" type="text/css" media="all">
+<link rel="stylesheet" id="vc_google_fonts_abril_fatfaceregular-css" href="//fonts.googleapis.com/css?family=Abril+Fatface%3Aregular&#038;ver=6.2.4" type="text/css" media="all">
+<link rel="stylesheet" id="vc_font_awesome_5_shims-css" href="/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/v4-shims.min.css?ver=7.3" type="text/css" media="all">
+<link rel="stylesheet" id="vc_font_awesome_5-css" href="/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/all.min.css?ver=7.3" type="text/css" media="all">
+<link rel="stylesheet" id="esg-tp-boxextcss-css" href="/wp-content/plugins/essential-grid/public/assets/css/jquery.esgbox.min.css?ver=3.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="rs-plugin-settings-css" href="/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.6.18" type="text/css" media="all">
+<style id="rs-plugin-settings-inline-css" type="text/css">#rev_slider_5_1_wrapper .hades.tparrows{cursor:pointer;background:rgba(0,0,0,0.25);width:100px;height:100px;position:absolute;display:block;z-index:1000}#rev_slider_5_1_wrapper .hades.tparrows:before{font-family:'revicons';font-size:30px;color:#ffffff;display:block;line-height:100px;text-align:center; transition:background 0.3s,color 0.3s}#rev_slider_5_1_wrapper .hades.tparrows.tp-leftarrow:before{content:'\e824'}#rev_slider_5_1_wrapper .hades.tparrows.tp-rightarrow:before{content:'\e825'}#rev_slider_5_1_wrapper .hades.tparrows.rs-touchhover:before{color:rgba(0,0,0,0.5);  background:#ffffff}#rev_slider_5_1_wrapper .hades .tp-arr-allwrapper{position:absolute; left:100%; top:0px; background:#888;  width:100px;height:100px; -webkit-transition:all 0.3s; transition:all 0.3s; -ms-filter:'progid:dximagetransform.microsoft.alpha(opacity=0)'; filter:alpha(opacity=0); -moz-opacity:0.0; -khtml-opacity:0.0; opacity:0.0; -webkit-transform:rotatey(-90deg); transform:rotatey(-90deg); -webkit-transform-origin:0% 50%; transform-origin:0% 50%}#rev_slider_5_1_wrapper .hades.tp-rightarrow .tp-arr-allwrapper{left:auto;  right:100%;  -webkit-transform-origin:100% 50%; transform-origin:100% 50%;  -webkit-transform:rotatey(90deg); transform:rotatey(90deg)}#rev_slider_5_1_wrapper .hades:hover .tp-arr-allwrapper{-ms-filter:'progid:dximagetransform.microsoft.alpha(opacity=100)'; filter:alpha(opacity=100); -moz-opacity:1; -khtml-opacity:1; opacity:1;   -webkit-transform:rotatey(0deg); transform:rotatey(0deg)}#rev_slider_5_1_wrapper .hades .tp-arr-iwrapper{}#rev_slider_5_1_wrapper .hades .tp-arr-imgholder{background-size:cover; position:absolute; top:0px;left:0px; width:100%;height:100%}#rev_slider_5_1_wrapper .hades .tp-arr-titleholder{}#rev_slider_5_1_wrapper .hades .tp-arr-subtitleholder{}</style>
+<script type="text/javascript" src="/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.4" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8.4" id="contact-form-7-js"></script>
+<script type="text/javascript" id="rmp_menu_scripts-js-extra">
+/* <![CDATA[ */
+var rmp_menu = {"ajaxURL":"\/wp-admin\/admin-ajax.php","wp_nonce":"e0b5694a05","menu":[{"menu_theme":"Default","theme_type":"default","theme_location_menu":"0","submenu_submenu_arrow_width":"40","submenu_submenu_arrow_width_unit":"px","submenu_submenu_arrow_height":"39","submenu_submenu_arrow_height_unit":"px","submenu_arrow_position":"right","submenu_sub_arrow_background_colour":"","submenu_sub_arrow_background_hover_colour":"","submenu_sub_arrow_background_colour_active":"","submenu_sub_arrow_background_hover_colour_active":"","submenu_sub_arrow_border_width":"","submenu_sub_arrow_border_width_unit":"px","submenu_sub_arrow_border_colour":"#1d4354","submenu_sub_arrow_border_hover_colour":"#3f3f3f","submenu_sub_arrow_border_colour_active":"#1d4354","submenu_sub_arrow_border_hover_colour_active":"#3f3f3f","submenu_sub_arrow_shape_colour":"#fff","submenu_sub_arrow_shape_hover_colour":"#fff","submenu_sub_arrow_shape_colour_active":"#fff","submenu_sub_arrow_shape_hover_colour_active":"#fff","use_header_bar":"off","header_bar_items_order":{"logo":"off","title":"on","additional content":"off","menu":"on","search":"off"},"header_bar_title":"Responsive Menu","header_bar_html_content":"","header_bar_logo":"","header_bar_logo_link":"","header_bar_logo_width":"","header_bar_logo_width_unit":"%","header_bar_logo_height":"","header_bar_logo_height_unit":"px","header_bar_height":"80","heade
